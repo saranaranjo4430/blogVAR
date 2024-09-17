@@ -19,7 +19,7 @@ author = "Sara Naranjo"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Sara Naranjo's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps","."]
+info = ["Full Stack DevOps","sjkdniudjksn"]
 avatarURL = "images/photosara.jpeg"
 #gravatar = "saranaranjo4430gmail.com"
 dateFormat = "January 2, 2006"
