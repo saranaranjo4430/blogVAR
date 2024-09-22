@@ -16,6 +16,7 @@ series = []
 +++
 
 # Affordances (Good and Bad)
+
 ## Good Affordance:
 Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).
 Why it's good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.
