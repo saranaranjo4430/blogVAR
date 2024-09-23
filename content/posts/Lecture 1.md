@@ -2,7 +2,7 @@
 date = 2024-09-17T11:00:55+02:00
 title = "Lecture 1"
 description = "Congnition and Perception"
-authors = [Sara Naranjo]
+authors = ["Sara Naranjo"]
 tags = [
     "Cognition",
     "Perception",
@@ -19,7 +19,7 @@ series = []
 
 vsfvdfbf
 
-
+iuhiujnlo
 
 ## Good Affordance:
 Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).
