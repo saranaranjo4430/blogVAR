@@ -5,7 +5,7 @@ description = "Congnition and Perception"
 authors = [Sara Naranjo]
 tags = [
     "Cognition",
-    "Perceprion",
+    "Perception",
     "Affordance",
     "Gestalt Laws",
     "Dark Design Patterns"
