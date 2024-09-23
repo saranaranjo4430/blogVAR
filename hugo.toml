@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://saranaranjo4430.github.io/blogVAR/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"

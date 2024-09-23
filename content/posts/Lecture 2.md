@@ -19,3 +19,4 @@ experts should be giving gidelines to regulate ethical aspects. So that the HCI 
 statement B : HCI people should be careful by themself to create things, taking in acount the ethical, moral and social implications. 
 
 
+# People that contributed to HCI
