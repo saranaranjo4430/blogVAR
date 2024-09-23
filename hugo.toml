@@ -1,5 +1,5 @@
-baseURL = "http://saranaranjo4430.github.io/blogVAR/"
-title = "Sara Naranjo"
+baseURL = "http://www.example.com"
+title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -15,15 +15,15 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Sara Naranjo"
+author = "John Doe"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Sara Naranjo's personal website"
+description = "John Doe's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps","sjkdniudjksn"]
-avatarURL = "images/photosara.jpeg"
-#gravatar = "saranaranjo4430gmail.com"
+info = ["Full Stack DevOps", "Magician"]
+avatarURL = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2024
+since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
@@ -152,7 +152,7 @@ url = "https://twitter.com/johndoe/"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/sarahelenanaranjo/"
+url = "https://www.linkedin.com/in/johndoe/"
 
 [[params.social]]
 name = "Medium"
