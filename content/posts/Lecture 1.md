@@ -18,7 +18,7 @@ series = []
 # Affordances (Good and Bad)
 
 vsfvdfbf
-
+kljbgiblkn
 iuhiujnlo
 
 ## Good Affordance:
