@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dark Design Patterns on Sara Naranjo</title>
+    <link>http://saranaranjo4430.github.io/blogVAR/tags/dark-design-patterns/</link>
+    <description>Recent content in Dark Design Patterns on Sara Naranjo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://saranaranjo4430.github.io/blogVAR/tags/dark-design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1</title>
+      <link>http://saranaranjo4430.github.io/blogVAR/posts/lecture-1/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://saranaranjo4430.github.io/blogVAR/posts/lecture-1/</guid>
+      <description>&lt;h1 id=&#34;affordances-good-and-bad&#34;&gt;&#xA;  Affordances (Good and Bad)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#affordances-good-and-bad&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;vsfvdfbf&lt;/p&gt;&#xA;&lt;p&gt;iuhiujnlo&lt;/p&gt;&#xA;&lt;h2 id=&#34;good-affordance&#34;&gt;&#xA;  Good Affordance:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#good-affordance&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).&#xA;Why it&amp;rsquo;s good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.&#xA;Picture:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

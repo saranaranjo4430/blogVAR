@@ -1,10 +1,11 @@
-+++ 
++++
 date = 2024-09-23T11:00:55+02:00
 title = "Lecture 2"
 description = "Metaphores and Mental Models"
 authors = ["Sara Naranjo"]
 tags = [
-    "examples"
+    "examples",
+    "test"
     ]
 categories = []
 externalLink = ""
