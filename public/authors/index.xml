@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Sara Naranjo</title>
-    <link>http://saranaranjo4430.github.io/blogVAR/authors/</link>
+    <link>http://localhost:1313/blogVAR/authors/</link>
     <description>Recent content in Authors on Sara Naranjo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 11:00:55 +0200</lastBuildDate>
-    <atom:link href="http://saranaranjo4430.github.io/blogVAR/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sara Naranjo</title>
-      <link>http://saranaranjo4430.github.io/blogVAR/authors/sara-naranjo/</link>
-      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://saranaranjo4430.github.io/blogVAR/authors/sara-naranjo/</guid>
+      <link>http://localhost:1313/blogVAR/authors/sara-naranjo/</link>
+      <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/authors/sara-naranjo/</guid>
       <description></description>
     </item>
     <item>
       <title>Lone Coder</title>
-      <link>http://saranaranjo4430.github.io/blogVAR/authors/lone-coder/</link>
+      <link>http://localhost:1313/blogVAR/authors/lone-coder/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://saranaranjo4430.github.io/blogVAR/authors/lone-coder/</guid>
+      <guid>http://localhost:1313/blogVAR/authors/lone-coder/</guid>
       <description></description>
     </item>
     <item>
       <title>Authors of Hugo</title>
-      <link>http://saranaranjo4430.github.io/blogVAR/authors/hugo-authors/</link>
+      <link>http://localhost:1313/blogVAR/authors/hugo-authors/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:29 +0100</pubDate>
-      <guid>http://saranaranjo4430.github.io/blogVAR/authors/hugo-authors/</guid>
+      <guid>http://localhost:1313/blogVAR/authors/hugo-authors/</guid>
       <description></description>
     </item>
   </channel>

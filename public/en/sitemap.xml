@@ -2,402 +2,414 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/authors/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/tags/affordance/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/authors/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/authors/"
+                href="http://localhost:1313/blogVAR/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/authors/"
+                href="http://localhost:1313/blogVAR/authors/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/examples/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/tags/cognition/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/lecture-2/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/tags/dark-design-patterns/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/tags/gestalt-laws/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/lab_3/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/tags/perception/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/"
+                href="http://localhost:1313/blogVAR/posts/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/"
+                href="http://localhost:1313/blogVAR/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/"
+                href="http://localhost:1313/blogVAR/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/authors/sara-naranjo/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/authors/sara-naranjo/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/</loc>
-    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/tags/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/"
+                href="http://localhost:1313/blogVAR/tags/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/test/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/lecture_4/</loc>
+    <lastmod>2024-09-24T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/lecture_5/</loc>
+    <lastmod>2024-09-24T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/lab_2/</loc>
     <lastmod>2024-09-23T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/affordance/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/lecture_3/</loc>
+    <lastmod>2024-09-23T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/lab_1/</loc>
     <lastmod>2024-09-17T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/cognition/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/lecture_2/</loc>
     <lastmod>2024-09-17T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/dark-design-patterns/</loc>
-    <lastmod>2024-09-17T11:00:55+02:00</lastmod>
+    <loc>http://localhost:1313/blogVAR/posts/lecture_1/</loc>
+    <lastmod>2024-09-16T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/gestalt-laws/</loc>
-    <lastmod>2024-09-17T11:00:55+02:00</lastmod>
-  </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/lecture-1/</loc>
-    <lastmod>2024-09-17T11:00:55+02:00</lastmod>
-  </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/perception/</loc>
-    <lastmod>2024-09-17T11:00:55+02:00</lastmod>
-  </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/categories/</loc>
+    <loc>http://localhost:1313/blogVAR/categories/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/categories/"
+                href="http://localhost:1313/blogVAR/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/categories/"
+                href="http://localhost:1313/blogVAR/categories/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/css/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/css/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/css/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/css/"
+                href="http://localhost:1313/blogVAR/tags/css/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/html/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/html/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/html/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/html/"
+                href="http://localhost:1313/blogVAR/tags/html/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/hugo/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/hugo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/hugo/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/hugo/"
+                href="http://localhost:1313/blogVAR/tags/hugo/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/authors/lone-coder/</loc>
+    <loc>http://localhost:1313/blogVAR/authors/lone-coder/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/authors/lone-coder/"
+                href="http://localhost:1313/blogVAR/pt-br/authors/lone-coder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/authors/lone-coder/"
+                href="http://localhost:1313/blogVAR/authors/lone-coder/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/markdown/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/markdown/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/markdown/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/markdown/"
+                href="http://localhost:1313/blogVAR/tags/markdown/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/markdown-syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/markdown-syntax/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/markdown-syntax/"
+                href="http://localhost:1313/blogVAR/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/series/</loc>
+    <loc>http://localhost:1313/blogVAR/series/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/series/"
+                href="http://localhost:1313/blogVAR/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/series/"
+                href="http://localhost:1313/blogVAR/series/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/categories/syntax/</loc>
+    <loc>http://localhost:1313/blogVAR/categories/syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/categoria/sintaxe/"
+                href="http://localhost:1313/blogVAR/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/categories/syntax/"
+                href="http://localhost:1313/blogVAR/categories/syntax/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/series/theme-demo/</loc>
+    <loc>http://localhost:1313/blogVAR/series/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/categories/theme-demo/</loc>
+    <loc>http://localhost:1313/blogVAR/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/rich-content/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/rich-content/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/rich-content/"
+                href="http://localhost:1313/blogVAR/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/shortcodes/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/shortcodes/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/shortcodes/"
+                href="http://localhost:1313/blogVAR/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/more-rich-content/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/more-rich-content/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/more-rich-content/"
+                href="http://localhost:1313/blogVAR/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/math-typesetting/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/math-typesetting/"
+                href="http://localhost:1313/blogVAR/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/html-and-css-only-tabs/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/html-and-css-only-tabs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/html-and-css-only-tabs/"
+                href="http://localhost:1313/blogVAR/posts/html-and-css-only-tabs/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/mermaid-support/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/mermaid-support/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/mermaid-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/mermaid-support/"
+                href="http://localhost:1313/blogVAR/posts/mermaid-support/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/emoji/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/emoji/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/emoji/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/emoji/"
+                href="http://localhost:1313/blogVAR/tags/emoji/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/emoji-support/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/emoji-support/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/emoji-support/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/emoji-support/"
+                href="http://localhost:1313/blogVAR/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/hugo-coder-wiki/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/hugo-coder-wiki/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/hugo-coder-wiki/"
+                href="http://localhost:1313/blogVAR/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/blogVAR/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/posts/placeholder-text/"
+                href="http://localhost:1313/blogVAR/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/posts/placeholder-text/"
+                href="http://localhost:1313/blogVAR/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/tags/text/</loc>
+    <loc>http://localhost:1313/blogVAR/tags/text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/tags/text/"
+                href="http://localhost:1313/blogVAR/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/tags/text/"
+                href="http://localhost:1313/blogVAR/tags/text/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/authors/hugo-authors/</loc>
+    <loc>http://localhost:1313/blogVAR/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/autores/autores-de-hugo/"
+                href="http://localhost:1313/blogVAR/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/authors/hugo-authors/"
+                href="http://localhost:1313/blogVAR/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/about/</loc>
+    <loc>http://localhost:1313/blogVAR/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/about/"
+                href="http://localhost:1313/blogVAR/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/about/"
+                href="http://localhost:1313/blogVAR/about/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/contact/</loc>
+    <loc>http://localhost:1313/blogVAR/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/contact/"
+                href="http://localhost:1313/blogVAR/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/contact/"
+                href="http://localhost:1313/blogVAR/contact/"
                 />
   </url><url>
-    <loc>http://saranaranjo4430.github.io/blogVAR/projects/</loc>
+    <loc>http://localhost:1313/blogVAR/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://saranaranjo4430.github.io/blogVAR/pt-br/projects/"
+                href="http://localhost:1313/blogVAR/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://saranaranjo4430.github.io/blogVAR/projects/"
+                href="http://localhost:1313/blogVAR/projects/"
                 />
   </url>
 </urlset>

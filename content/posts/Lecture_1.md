@@ -21,7 +21,20 @@ series = []
 Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).
 Why it's good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.
 Picture: 
-![Trackpad Example](/static/images/trackpad.jpeg)
+
+![Trackpad Example1](images/photosara.JPG)
+
+{{< figure src="images/photosara.JPG" alt="Trackpad Example" caption="A good affordance example" >}}
+
+
+<img src="images/photosara.JPG" alt="Trackpad Example2">
+
+<img src="images/photosara.jpeg" alt="Trackpad Example" width="300">
+
+{{< figure src="/images/photosara.jpeg" alt="Trackpad Example" caption="A good affordance example" >}}
+
+![Trackpad Example3](https://www.google.com/search?q=usb+bad+affordance+&sca_esv=fbf738c26e1a574b&udm=2&biw=1920&bih=968&sxsrf=ADLYWIIpzB9i1cd8mc06q7pbOeOOzZY8iw%3A1728230789331&ei=hbUCZ6rwE7mmkdUPn76KoQo&ved=0ahUKEwjqxqaykfqIAxU5U6QEHR-fIqQQ4dUDCBA&uact=5&oq=usb+bad+affordance+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3VzYiBiYWQgYWZmb3JkYW5jZSBIsh1QAFj6G3ABeACQAQCYAXGgAcUIqgEEMTcuMrgBA8gBAPgBAZgCCqACvQSoAgrCAgcQIxgnGOoCwgIFEAAYgATCAgoQABiABBhDGIoFwgIHEAAYgAQYCsICBxAAGIAEGBPCAgkQABiABBgTGArCAgYQABgTGB7CAggQABgTGAUYHsICBBAAGB6YAwySBwM5LjGgB4kp&sclient=gws-wiz-serp#imgrc=bvSVWgXlu5VE3M&imgdii=kFoM-R3lsXUxMM)
+
 
 ## Bad Affordance:
 Example: A USB port on a device that’s difficult to find or access because it’s hidden behind a cover or in an awkward position.

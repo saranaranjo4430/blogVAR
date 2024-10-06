@@ -2,18 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognition on Sara Naranjo</title>
-    <link>http://saranaranjo4430.github.io/blogVAR/tags/cognition/</link>
+    <link>http://localhost:1313/blogVAR/tags/cognition/</link>
     <description>Recent content in Cognition on Sara Naranjo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 11:00:55 +0200</lastBuildDate>
-    <atom:link href="http://saranaranjo4430.github.io/blogVAR/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 3</title>
+      <link>http://localhost:1313/blogVAR/posts/lab_3/</link>
+      <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lab_3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture 4</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_4/</link>
+      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_4/</guid>
+      <description>&lt;h1 id=&#34;trackers&#34;&gt;&#xA;  Trackers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#trackers&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 5</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_5/</link>
+      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_5/</guid>
+      <description>&lt;h2 id=&#34;an-example-of-a-design-process&#34;&gt;&#xA;  An example of a design process&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#an-example-of-a-design-process&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Task of creating an online platform (doctolib) :&#xA;How to aproach it :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;make sure that it is secure&lt;/li&gt;&#xA;&lt;li&gt;strict policy of the information given to the doctor and to the patient&lt;/li&gt;&#xA;&lt;li&gt;create a &amp;ldquo;data base&amp;rdquo; of the doctors that want to participate&lt;/li&gt;&#xA;&lt;li&gt;ask people what they want to do for the platform and what do they want to see on it&lt;/li&gt;&#xA;&lt;li&gt;start from a base, for example doctolib and then add functinalities on top of it. Identity the problems that people (doctors and patients) have with doctolib. And then built on top of it. It&amp;rsquo;s always easier to start from something.&lt;/li&gt;&#xA;&lt;li&gt;Maybe ask yourself what are the problems with the platform, do a survey, &amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;difference-between-ucd-user-centered-desing-and-hcd-human-centered-design&#34;&gt;&#xA;  Difference between UCD (User Centered Desing) and HCD (Human Centered Design)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#difference-between-ucd-user-centered-desing-and-hcd-human-centered-design&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;UCD : focus on the user itself, not taking into acount other factors. (just focusing on the patients and the doctors, and not on the people that are going to run the app, hospital people, environmental factors, side effects, &amp;hellip;)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lab 2</title>
+      <link>http://localhost:1313/blogVAR/posts/lab_2/</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lab_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture 3</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_3/</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lab 1</title>
+      <link>http://localhost:1313/blogVAR/posts/lab_1/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lab_1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture 2</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_2/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Lecture 1</title>
-      <link>http://saranaranjo4430.github.io/blogVAR/posts/lecture-1/</link>
-      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://saranaranjo4430.github.io/blogVAR/posts/lecture-1/</guid>
-      <description>&lt;h1 id=&#34;affordances-good-and-bad&#34;&gt;&#xA;  Affordances (Good and Bad)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#affordances-good-and-bad&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;vsfvdfbf&lt;/p&gt;&#xA;&lt;p&gt;iuhiujnlo&lt;/p&gt;&#xA;&lt;h2 id=&#34;good-affordance&#34;&gt;&#xA;  Good Affordance:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#good-affordance&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).&#xA;Why it&amp;rsquo;s good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.&#xA;Picture:&lt;/p&gt;</description>
+      <link>http://localhost:1313/blogVAR/posts/lecture_1/</link>
+      <pubDate>Mon, 16 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_1/</guid>
+      <description>&lt;h1 id=&#34;affordances-good-and-bad&#34;&gt;&#xA;  Affordances (Good and Bad)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#affordances-good-and-bad&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;good-affordance&#34;&gt;&#xA;  Good Affordance:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#good-affordance&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).&#xA;Why it&amp;rsquo;s good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.&#xA;Picture:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
