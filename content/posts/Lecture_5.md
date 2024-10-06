@@ -11,6 +11,47 @@ externalLink = ""
 series = []
 +++
 
+
+Summary of Lecture: Design Processes – Prototyping and Evaluation
+This lecture focuses on the design process in Human-Centered Design (HCD), emphasizing the importance of user involvement, prototyping, and evaluation to create systems that are both usable and useful. The design process follows a structured, iterative approach, incorporating user feedback and addressing their needs at every stage.
+
+Key Concepts:
+Human-Centered Design (HCD):
+
+HCD is an approach that prioritizes the needs, behaviors, and requirements of people involved in the system, not just end-users but all stakeholders, including designers, developers, and even those who maintain the system.
+It involves applying human factors, ergonomics, and usability principles to ensure systems are usable and user-friendly.
+User-Centered Design (UCD):
+
+UCD is a subset of HCD, focusing on the end-user's experience. It involves understanding the user's context, defining requirements, designing solutions, and evaluating them through constant iteration.
+The four phases of UCD include:
+Phase 1: Understand the Context of Use – Gathering data through interviews, focus groups, and observations to define user needs.
+Phase 2: Requirements – Defining the problems and goals based on user research to address pain points through wireframes, mockups, and prototypes.
+Phase 3: Design – Iteratively creating and refining designs based on feedback from stakeholders.
+Phase 4: Evaluation – Testing the design with real users to identify usability issues using methods like usability testing, A/B testing, and heuristic evaluation.
+Prototyping:
+
+Prototyping is an essential part of the design process that involves creating preliminary models of the product to test and refine.
+Low-Fidelity Prototypes: Paper prototypes, wireframes, sketches, or storyboards that help test basic functionality and gather feedback early in the design process.
+High-Fidelity Prototypes: Digital prototypes or hardware models that closely resemble the final product. These are used for in-depth testing and refining the design based on real user interactions.
+Types of Prototypes:
+
+Horizontal Prototyping: Covers multiple features but lacks depth in functionality. Suitable for exploring a wide range of features.
+Vertical Prototyping: Focuses deeply on a few features, often as proof of concept, to explore complex functions.
+Evaluation Methods:
+
+Usability Testing: Involves real users performing tasks to assess ease of use, efficiency, and satisfaction.
+A/B Testing: Compares two variations of a design to see which performs better in terms of user behavior or engagement.
+Heuristic Evaluation: Experts review the design against usability principles to identify potential issues before testing with real users.
+Research Methods:
+
+Qualitative Methods: Such as interviews, observations, and focus groups that explore user behavior and preferences in depth.
+Quantitative Methods: Such as surveys or lab studies that provide measurable data to compare different versions of a design.
+Design Process Application:
+
+The lecture also touched on how to design a system from scratch using an example task: creating a doctor-patient consultation platform. The process involved gathering user needs through ethnography, focus groups, and interviews, followed by creating personas and scenarios, and then building and testing prototypes.
+In conclusion, the design process is iterative, with constant user involvement to refine and improve a system. By focusing on human-centered approaches, designers can ensure that their products are not only functional but also meet the emotional, cultural, and practical needs of their users.
+
+
 ## An example of a design process 
 Task of creating an online platform (doctolib) :
 How to aproach it : 
