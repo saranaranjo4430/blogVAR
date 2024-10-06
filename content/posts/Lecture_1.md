@@ -17,14 +17,12 @@ series = []
 
 # Affordances (Good and Bad)
 
-vsfvdfbf
-kljbgiblkn
-iuhiujnlo
-
 ## Good Affordance:
 Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).
 Why it's good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.
 Picture: 
+![Trackpad Example](images/trackpad.jpeg)
+
 ## Bad Affordance:
 Example: A USB port on a device that’s difficult to find or access because it’s hidden behind a cover or in an awkward position.
 Why it's bad: Users struggle to identify where the port is or how to plug in the cable properly. The design doesn’t afford easy access or use, leading to frustration when trying to connect a device.
