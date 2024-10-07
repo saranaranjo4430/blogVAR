@@ -15,6 +15,7 @@ externalLink = ""
 series = []
 +++
 à relire 
+sfvsf
 
 # Summary and key concepts of the lecture 
 Human-Computer Interaction (HCI) focuses on designing intuitive, efficient, and user-friendly interfaces between humans and computer systems. Here are the key forms and concepts discussed in the lecture:
