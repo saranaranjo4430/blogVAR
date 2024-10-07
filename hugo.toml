@@ -176,7 +176,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "HCI"
 weight = 2
-url = "#"
+url = "labs/"
 # Set URL to "#" so the parent item is not clickable, but the sub-items are.
 
 [[languages.en.menu.main]]
