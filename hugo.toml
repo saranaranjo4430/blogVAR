@@ -182,15 +182,14 @@ url = "#"
 [[languages.en.menu.main]]
 name = "Lectures"
 parent = "HCI"
-weight = 1
+weight = 3
 url = "lectures/"
 
 [[languages.en.menu.main]]
 name = "Labs"
 parent = "HCI"
 weight = 2
-url = "/labs/"  # Update the URL for Labs if you have a Labs page.
-
+url = "labs/"  # Update the URL for Labs if you have a Labs page.
 
 [[languages.en.menu.main]]
 name = "Projects"
