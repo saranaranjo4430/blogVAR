@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/blogVAR/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blogVAR/livereload" data-no-instant defer></script>
+  <title>
+  Lecture 5 · Sara Naranjo
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Sara Naranjo">
+<meta name="description" content="Design Processes">
+<meta name="keywords" content="blog,developer,personal, k ">
+<meta name="fediverse:creator" content="" />
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Lecture 5">
+  <meta name="twitter:description" content="Design Processes">
+
+<meta property="og:url" content="http://localhost:1313/blogVAR/lectures/lecture_5/">
+  <meta property="og:site_name" content="Sara Naranjo">
+  <meta property="og:title" content="Lecture 5">
+  <meta property="og:description" content="Design Processes">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="lectures">
+    <meta property="article:published_time" content="2024-09-24T11:00:55+02:00">
+    <meta property="article:modified_time" content="2024-09-24T11:00:55+02:00">
+    <meta property="article:tag" content="Cognition">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/blogVAR/lectures/lecture_5/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/blogVAR/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/blogVAR/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/blogVAR/">
+      Sara Naranjo
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/about/">About</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item has-submenu">
+              <a class="navigation-link " href="/blogVAR/#">HCI</a>
+              
+              
+                <ul class="submenu">
+                  
+                    <li class="navigation-item">
+                      <a class="navigation-link " href="/blogVAR/lectures/">Lectures</a>
+                    </li>
+                  
+                    <li class="navigation-item">
+                      <a class="navigation-link " href="/blogVAR/labs/">Labs</a>
+                    </li>
+                  
+                </ul>
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/projects/">Projects</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/posts/">Examples</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/contact/">Contact me</a>
+              
+              
+            </li>
+          
+        
+
+        
+          
+          
+          
+            
+          
+            
+              
+                <li class="navigation-item menu-separator">
+                  <span>|</span>
+                </li>
+                
+              
+              <li class="navigation-item">
+                <a href="/blogVAR/pt-br/">🇧🇷</a>
+              </li>
+            
+          
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="http://localhost:1313/blogVAR/lectures/lecture_5/">
+          Lecture 5
+        </a>
+      </h1>
+    </header>
+
+    <p>Summary of Lecture: Design Processes – Prototyping and Evaluation
+This lecture focuses on the design process in Human-Centered Design (HCD), emphasizing the importance of user involvement, prototyping, and evaluation to create systems that are both usable and useful. The design process follows a structured, iterative approach, incorporating user feedback and addressing their needs at every stage.</p>
+<p>Key Concepts:
+Human-Centered Design (HCD):</p>
+<p>HCD is an approach that prioritizes the needs, behaviors, and requirements of people involved in the system, not just end-users but all stakeholders, including designers, developers, and even those who maintain the system.
+It involves applying human factors, ergonomics, and usability principles to ensure systems are usable and user-friendly.
+User-Centered Design (UCD):</p>
+<p>UCD is a subset of HCD, focusing on the end-user&rsquo;s experience. It involves understanding the user&rsquo;s context, defining requirements, designing solutions, and evaluating them through constant iteration.
+The four phases of UCD include:
+Phase 1: Understand the Context of Use – Gathering data through interviews, focus groups, and observations to define user needs.
+Phase 2: Requirements – Defining the problems and goals based on user research to address pain points through wireframes, mockups, and prototypes.
+Phase 3: Design – Iteratively creating and refining designs based on feedback from stakeholders.
+Phase 4: Evaluation – Testing the design with real users to identify usability issues using methods like usability testing, A/B testing, and heuristic evaluation.
+Prototyping:</p>
+<p>Prototyping is an essential part of the design process that involves creating preliminary models of the product to test and refine.
+Low-Fidelity Prototypes: Paper prototypes, wireframes, sketches, or storyboards that help test basic functionality and gather feedback early in the design process.
+High-Fidelity Prototypes: Digital prototypes or hardware models that closely resemble the final product. These are used for in-depth testing and refining the design based on real user interactions.
+Types of Prototypes:</p>
+<p>Horizontal Prototyping: Covers multiple features but lacks depth in functionality. Suitable for exploring a wide range of features.
+Vertical Prototyping: Focuses deeply on a few features, often as proof of concept, to explore complex functions.
+Evaluation Methods:</p>
+<p>Usability Testing: Involves real users performing tasks to assess ease of use, efficiency, and satisfaction.
+A/B Testing: Compares two variations of a design to see which performs better in terms of user behavior or engagement.
+Heuristic Evaluation: Experts review the design against usability principles to identify potential issues before testing with real users.
+Research Methods:</p>
+<p>Qualitative Methods: Such as interviews, observations, and focus groups that explore user behavior and preferences in depth.
+Quantitative Methods: Such as surveys or lab studies that provide measurable data to compare different versions of a design.
+Design Process Application:</p>
+<p>The lecture also touched on how to design a system from scratch using an example task: creating a doctor-patient consultation platform. The process involved gathering user needs through ethnography, focus groups, and interviews, followed by creating personas and scenarios, and then building and testing prototypes.
+In conclusion, the design process is iterative, with constant user involvement to refine and improve a system. By focusing on human-centered approaches, designers can ensure that their products are not only functional but also meet the emotional, cultural, and practical needs of their users.</p>
+<h2 id="an-example-of-a-design-process">
+  An example of a design process
+  <a class="heading-link" href="#an-example-of-a-design-process">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Task of creating an online platform (doctolib) :
+How to aproach it :</p>
+<ul>
+<li>make sure that it is secure</li>
+<li>strict policy of the information given to the doctor and to the patient</li>
+<li>create a &ldquo;data base&rdquo; of the doctors that want to participate</li>
+<li>ask people what they want to do for the platform and what do they want to see on it</li>
+<li>start from a base, for example doctolib and then add functinalities on top of it. Identity the problems that people (doctors and patients) have with doctolib. And then built on top of it. It&rsquo;s always easier to start from something.</li>
+<li>Maybe ask yourself what are the problems with the platform, do a survey, &hellip;</li>
+</ul>
+<h2 id="difference-between-ucd-user-centered-desing-and-hcd-human-centered-design">
+  Difference between UCD (User Centered Desing) and HCD (Human Centered Design)
+  <a class="heading-link" href="#difference-between-ucd-user-centered-desing-and-hcd-human-centered-design">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>UCD : focus on the user itself, not taking into acount other factors. (just focusing on the patients and the doctors, and not on the people that are going to run the app, hospital people, environmental factors, side effects, &hellip;)</p>
+<p>Keep a camera and try to understand what are the issues the user encounters, to then try to improve them.
+If the users know that they are being observed they are going to have some bias, they might change what they are doing.</p>
+<p>HCD :  Takes into account the human aspect. Takes into account everything as a system. And do an iterative work.</p>
+<p>Usability : Effectiveness, efficiency and satisfaction (the attitute through the application)</p>
+<p>To calculate the effectiveness : (formula)
+And time-based efficciency : (formula)</p>
+<p>Video - Norman door, the design of everyday things</p>
+<h1 id="qualitative-vs-quantitative-">
+  Qualitative vs Quantitative :
+  <a class="heading-link" href="#qualitative-vs-quantitative-">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>Quantitative research : focus on testing theories and their hypothesis, a lot of statistics and maths. Collect a very large number of samples. Objective and you can replicate the results.
+Qualitative research : You ask open-ended questions, you don&rsquo;t need a lot of participants. You can pick a small number of participants and analyse their responses. Subjective.</p>
+<p>Which research method for HCI ? A mix of both.</p>
+<p>Goal directed persona :
+Role-based persona :
+Engaging persona :</p>
+<h1 id="getting-the-right-design-vs-getting-the-desing-right-">
+  Getting the Right Design vs Getting the Desing Right :
+  <a class="heading-link" href="#getting-the-right-design-vs-getting-the-desing-right-">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h2 id="homework">
+  homework
+  <a class="heading-link" href="#homework">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Task : enhacing human habilities in the age of augmented reality
+Lecture 7
+Lecture 8
+Lecture 9</p>
+
+  </article>
+</section>
+
+  
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2024
+     Sara Naranjo 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/blogVAR/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

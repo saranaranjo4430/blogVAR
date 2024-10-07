@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Sara Naranjo</title>
+    <link>http://localhost:1313/blogVAR/labs/</link>
+    <description>Recent content in Labs on Sara Naranjo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/labs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 3</title>
+      <link>http://localhost:1313/blogVAR/labs/lab_3/</link>
+      <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/labs/lab_3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lab 2</title>
+      <link>http://localhost:1313/blogVAR/labs/lab_2/</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/labs/lab_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lab 1</title>
+      <link>http://localhost:1313/blogVAR/labs/lab_1/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/labs/lab_1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

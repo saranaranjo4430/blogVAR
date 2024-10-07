@@ -27,24 +27,14 @@
     <loc>http://localhost:1313/blogVAR/tags/gestalt-laws/</loc>
     <lastmod>2024-09-25T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lab_3/</loc>
+    <loc>http://localhost:1313/blogVAR/labs/lab_3/</loc>
+    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/labs/</loc>
     <lastmod>2024-09-25T11:00:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogVAR/tags/perception/</loc>
     <lastmod>2024-09-25T11:00:55+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/</loc>
-    <lastmod>2024-09-25T11:00:55+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/blogVAR/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/blogVAR/posts/"
-                />
   </url><url>
     <loc>http://localhost:1313/blogVAR/</loc>
     <lastmod>2024-09-25T11:00:55+02:00</lastmod>
@@ -75,25 +65,28 @@
                 href="http://localhost:1313/blogVAR/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lecture_4/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/lecture_4/</loc>
     <lastmod>2024-09-24T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lecture_5/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/lecture_5/</loc>
     <lastmod>2024-09-24T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lab_2/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/</loc>
+    <lastmod>2024-09-24T11:00:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/labs/lab_2/</loc>
     <lastmod>2024-09-23T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lecture_3/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/lecture_3/</loc>
     <lastmod>2024-09-23T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lab_1/</loc>
+    <loc>http://localhost:1313/blogVAR/labs/lab_1/</loc>
     <lastmod>2024-09-17T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lecture_2/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/lecture_2/</loc>
     <lastmod>2024-09-17T11:00:55+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogVAR/posts/lecture_1/</loc>
+    <loc>http://localhost:1313/blogVAR/lectures/lecture_1/</loc>
     <lastmod>2024-09-16T11:00:55+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogVAR/categories/</loc>
@@ -185,6 +178,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/blogVAR/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/posts/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/blogVAR/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/blogVAR/posts/"
                 />
   </url><url>
     <loc>http://localhost:1313/blogVAR/series/</loc>
@@ -322,6 +328,18 @@
                 hreflang="en"
                 href="http://localhost:1313/blogVAR/posts/emoji-support/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/test/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/test/test1/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/test/test2/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogVAR/test/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogVAR/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
