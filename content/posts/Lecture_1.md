@@ -63,6 +63,10 @@ Picture:
 
 ![Trackpad Example1](/blogVAR/static/images/trackpad.JPG)
 
+![Trackpad Example1](/blogVAR/images/photosara.JPG)
+
+![Trackpad Example1](/blogVAR/images/trackpad.JPG)
+
 {{< figure src="images/photosara.JPG" alt="Trackpad Example" caption="A good affordance example" >}}
 
 
