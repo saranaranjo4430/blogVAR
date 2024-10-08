@@ -88,7 +88,9 @@ Example: A USB port on a device that’s difficult to find or access because it�
 Why it's bad: Users struggle to identify where the port is or how to plug in the cable properly. The design doesn’t afford easy access or use, leading to frustration when trying to connect a device.
 How to fix it: Position the USB port in a more accessible location, and perhaps add a small light or visible marker that indicates where to plug in the cable.
 Picture: 
-{{< figure src="/blogVAR/images/usb.JPG" alt="Usb Example" caption="A bad affordance example" >}}
+
+{{< figure src="/blogVAR/images/usb.jpeg" alt="Usb Example" caption="A bad affordance example" >}}
+
 ## Gestalt Laws (Bad Applications)
 ### Bad Application 1:
 Example: A poorly designed bookshelf where books of different genres are placed together without clear visual separation.
