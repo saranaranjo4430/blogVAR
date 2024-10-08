@@ -61,7 +61,7 @@ Example: A laptop trackpad that allows multitouch gestures (like pinch-to-zoom o
 Why it's good: The trackpad not only allows users to move the cursor but also affords more complex interactions, such as zooming or scrolling, without needing additional buttons. The smooth, flat surface encourages exploration and gestures, which most users can discover intuitively.
 Picture: 
 
-![Trackpad Example1](images/photosara.JPG)
+![Trackpad Example1](/blogVAR/static/images/trackpad.JPG)
 
 {{< figure src="images/photosara.JPG" alt="Trackpad Example" caption="A good affordance example" >}}
 

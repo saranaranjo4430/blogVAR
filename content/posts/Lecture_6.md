@@ -12,6 +12,8 @@ series = []
 +++
 
 
+First prototypoes should be made fast (in within 1 day)
+
 ![Trackpad Example1](/blogVAR/images/photosara.JPG)
 
 ![Trackpad Example1](/blogVAR/static/images/photosara.JPG)
