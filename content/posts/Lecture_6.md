@@ -12,9 +12,9 @@ series = []
 +++
 
 
-![Trackpad Example1](images/photosara.JPG)
+![Trackpad Example1](/blogVAR/images/photosara.JPG)
 
-![Trackpad Example1](images/photosara.jpeg)
+![Trackpad Example1](/blogVAR/static/images/photosara.JPG)
 
 ![Trackpad Example1](images/trackpad.JPG)
 
