@@ -79,6 +79,7 @@ How to fix it: Position the USB port in a more accessible location, and perhaps 
 {{< notice example >}}
 A poorly designed bookshelf where books of different genres are placed together without clear visual separation.
 {{< /notice >}} 
+{{< figure src="/blogVAR/images/bookshelf.jpeg" alt="Bookshelf Example" caption="A bad application of the Gestalt Law" >}}
 **Gestalt Law:** Law of Similarity – Objects that share visual characteristics are perceived as related.
 Problem: If mystery novels and science fiction books are mixed together without any kind of visual cue (like different colored sections or labels), users might have a harder time distinguishing between the genres. This disrupts the browsing experience.
 Fix: Use clear genre labels, different color-coded sections, or signage that visually separates the categories to help users find what they are looking for more efficiently.
