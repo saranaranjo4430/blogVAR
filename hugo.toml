@@ -21,7 +21,7 @@ noClasses = false
 author = "Sara Naranjo"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Sara Naranjo's personal website"
-keywords = "blog,developer,personal, k "
+keywords = "blog, engineer, personnel "
 info = ["Mechatronics Engineering Student","IP Paris"]
 avatarURL = "images/photosara.jpeg"
 #gravatar = "saranaranjo4430gmail.com"
@@ -186,7 +186,7 @@ title = "Sara Naranjo"
 
 [languages.fr.params]
 author = "Sara Naranjo"
-info = "Ingénieur Mécatronique, IP Paris"
+info = ["Ingénieur Mécatronique", "IP Paris"]
 description = "Site Web personnel de Sara Naranjo"
 keywords = "blog, ingénieur, personnel"
 
