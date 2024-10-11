@@ -17,42 +17,42 @@ series = []
 The history of **Human-Computer Interaction (HCI)** reveals how individual researchers, technological advancements, and evolving user needs have shaped the field over time. HCI emerged in the 1970s and 1980s, grounded in engineering, cognitive psychology, and ergonomics, with the primary goal of enhancing usability. Over time, it has become a highly interdisciplinary field, incorporating insights from computer science, psychology, design, and cognitive science.
 
 # Key Historical Milestones:
-## 1. Zuse Z3 (1941):
+### 1. Zuse Z3 (1941):
 
 - The Z3 was the first programmable computer, primarily designed for scientific calculations, marking a pioneering step in computing history.
 
-## Personal Computers:
+### 2. Personal Computers:
 
 - **Xerox Alto (1973):** Introduced the first graphical user interface (GUI) with a mouse and Ethernet networking, laying the foundation for modern personal computing.
 - **Apple iPhone (2007):** A major milestone in mobile computing that revolutionized interaction with handheld devices.
 - **Oculus Quest (2019):** A paradigm shift in consumer virtual reality, making high-quality VR experiences accessible.
 
 # Key Figures and Their Contributions:
-## 1. Vannevar Bush:
+### 1. Vannevar Bush:
 
 - **MEMEX (1945):** Bush envisioned a system that could store and retrieve information using indexing and cross-referencing, which foreshadowed the World Wide Web. His vision focused on augmenting human memory and information retrieval.
 
-## 2. J.R. Licklider:
+### 2. J.R. Licklider:
 
 - **Human-Computer Symbiosis (1960s):** Licklider's work laid the groundwork for interactive computing, envisioning a global network of interconnected computers, which influenced the development of the internet.
 
-## 3. Ivan Sutherland:
+### 3. Ivan Sutherland:
 
 - **Sketchpad (1963):** One of the first graphical user interfaces, Sutherland’s work inspired the development of virtual and augmented reality, earning him the title of the "grandfather" of these fields.
 
-## 4. Douglas Engelbart:
+### 4. Douglas Engelbart:
 
 - **Mother of All Demos (1968):** Demonstrated innovations like the computer mouse, hypertext, and collaborative systems, which shaped modern HCI.
 
-## 5. Alan Kay:
+### 5. Alan Kay:
 
 - **Dynabook (1970s):** Envisioned the personal computer and portable devices, influencing the design of modern laptops and tablets. Kay also developed Smalltalk, an early object-oriented programming language that impacted GUI development.
 
-## 6. Don Norman:
+### 6. Don Norman:
 
 - **User-Centered Design:** Norman emphasized the importance of designing systems with a deep understanding of the user. His work focused on making designs intuitive and easy to use, best exemplified in his book, The Design of Everyday Things.
 
-## 7. Mark Weiser:
+### 7. Mark Weiser:
 
 - **Ubiquitous Computing:** Weiser coined the term “ubiquitous computing” and advocated for technology that blends seamlessly into everyday life. His work influenced the Internet of Things (IoT).
 
