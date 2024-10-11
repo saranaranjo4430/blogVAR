@@ -7,8 +7,6 @@ tags = [
     "Cognition",
     "Perception",
     "Affordance",
-    "Gestalt Laws",
-    "Dark Design Patterns"
     ]
 categories = []
 externalLink = ""
@@ -55,7 +53,7 @@ Dark design patterns manipulate users into taking actions they wouldn’t normal
 In conclusion, as technology advances, it becomes increasingly important to design interfaces that respect users' cognitive limitations, prioritize accessibility, and avoid manipulative practices. Understanding cognition, perception, and behavior is key to creating intuitive and user-friendly systems. 
 
 ___
-# Homework 
+# Homework:
 ## Affordances (Good and Bad)
 
 ### Good Affordance:
@@ -67,7 +65,6 @@ A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-fin
 
 {{< figure src="/blogVAR/images/trackpad.JPG" alt="Trackpad Example" caption="A good affordance example" >}}
 
-
 ### Bad Affordance:
 {{< notice example >}}
 A USB port on a device that’s difficult to find or access because it’s hidden behind a cover or in an awkward position.
@@ -78,6 +75,3 @@ A USB port on a device that’s difficult to find or access because it’s hidde
 {{< /notice >}} 
 
 {{< figure src="/blogVAR/images/usb.jpeg" alt="Usb Example" caption="A bad affordance example" >}}
-
-
-
