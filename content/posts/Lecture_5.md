@@ -12,8 +12,6 @@ externalLink = ""
 series = []
 +++
 # Summary and key concepts of the lecture 
-
-Summary of Lecture: Design Processes – Prototyping and Evaluation
 This lecture focuses on the **design process** in Human-Centered Design (HCD), emphasizing the importance of user involvement, prototyping, and evaluation to create systems that are both usable and useful. The design process follows a structured, iterative approach, incorporating user feedback and addressing their needs at every stage.
 
 ## Key Concepts:
@@ -55,6 +53,7 @@ ___
 The video titled "It's not you. Bad doors are everywhere" discusses the concept of "Norman Doors," which are doors designed so poorly that people struggle to figure out whether to push or pull them. The speaker emphasizes the importance of intuitive design, using doors as an example of how bad design can create frustration. The video explores how simple cues, like handles or labels, can either help or hinder user interaction, stressing the need for user-friendly design across all products.
 
 ## An example of a design process 
+{{< notice example >}}
 ### Task: Creating an Online Platform (similar to Doctolib)
 #### Approach:
 1. **Ensure Security:**
@@ -70,14 +69,6 @@ The video titled "It's not you. Bad doors are everywhere" discusses the concept 
 6. **Identify Problems and Build Solutions:**
 - Conduct surveys or interviews to find out what problems users encounter on the platform. Use these insights to improve the user experience by refining and adding features based on real needs.
 This process ensures that the platform is both user-centered and built on top of an existing foundation, reducing development time and improving user satisfaction.
+{{< /notice >}}
 ___
 # Homework 
-
-
-lknmk
-
-
-Task : enhacing human habilities in the age of augmented reality 
-Lecture 7
-Lecture 8
-Lecture 9
