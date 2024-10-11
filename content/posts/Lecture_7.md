@@ -14,27 +14,31 @@ series = []
 +++
 
 # Summary and key concepts of the lecture 
-This lecture dives into methods for quickly prototyping interactive gloves and explores innovative applications of capacitive touch technology in the context of mobile/ubiquitous computing. By integrating interactive features into everyday objects and environments, we can create tangible, intuitive interfaces that blend seamlessly with digital systems.
+
+This lecture explores **quick prototyping techniques** for interactive gloves and how capacitive touch technology integrates with mobile and ubiquitous computing. These advances create seamless, intuitive interfaces by turning everyday objects into interactive surfaces.
 
 ## Key Concepts:
-### 1. Quick Prototyping Interactive Gloves:
-To build gloves that function with capacitive screens, conductive materials can be integrated into the fingertips, mimicking the electrical conductivity of human skin. This simple approach allows quick interaction with touchscreens for both consumer and specialized use.
-### 2. CapWidgets:
-These are passive, tangible controls designed for capacitive touchscreens on smartphones and tablets. CapWidgets allow users to interact physically with digital surfaces by acting as extensions like dials, sliders, or buttons.
-### 3. CapStones and ZebraWidgets:
-CapStones are stackable objects, and ZebraWidgets include dials and sliders that can be used to manipulate capacitive touchscreens, offering more intuitive control. They provide tangible means to interact with mobile devices, enriching user interaction beyond the flat surface of the screen.
-### 4. Touché Technology:
-Touché is an enhancement that enables richer touch interactions, not just on screens but on objects, liquids, and even human skin. It can recognize different types of touches and gestures, broadening the possibilities of interaction with ubiquitous devices.
-### 5. Botanicus Interacticus:
-This innovative system uses plants as interactive touch surfaces, allowing users to treat plants like digital interfaces. The technology detects user interaction, turning plants into interactive objects in a digital ecosystem.
-### 6. TapSense and Qeexo FingerSense:
-TapSense can distinguish between different parts of the finger (like the tip, pad, and knuckle) to create new ways of interacting with touchscreens. Qeexo FingerSense takes this a step further by distinguishing between different objects (like fingers, styluses, or knuckles) interacting with the screen, enhancing precision and interaction possibilities on mobile devices.
 
-## Mobile and Ubiquitous Computing:
-- **Ubiquitous computing** refers to the integration of computing technology into everyday objects and environments, enabling a seamless user experience. Mobile devices, due to their portability and connectivity, play a major role in ubiquitous computing, where digital interactions occur naturally across various devices and contexts.
-- This lecture highlights how interactive technologies, like those discussed (CapWidgets, Touché, etc.), are reshaping the way we interact with mobile and ubiquitous systems. These innovations enhance everyday objects with computing capabilities, fostering a natural, intuitive interface for users.
+1. **Interactive Gloves for Capacitive Screens:**
+   - Using conductive materials, gloves can be adapted to interact with capacitive touchscreens, providing an easy and rapid prototype for user-device interaction.
+
+2. **CapWidgets, CapStones, and ZebraWidgets:**
+   - **CapWidgets** bring physical controls back to capacitive touchscreens, allowing tangible interaction with sliders and dials. 
+   - **CapStones** and **ZebraWidgets** enhance user interaction through stackable and modular components, creating intuitive interfaces on tablets and smartphones.
+
+3. **Advanced Touch Interaction:**
+   - **Touché** expands touch capabilities to recognize different gestures and touches on various objects, including humans and liquids, providing versatile control options.
+   - **TapSense** and **Qeexo FingerSense** extend touchscreen capabilities by detecting different parts of the finger or different input tools, enhancing precision in mobile interactions.
+
+4. **Ubiquitous Computing:**
+   - Coined by **Mark Weiser**, ubiquitous computing refers to technology that fades into the background, seamlessly integrating into everyday life. This is supported by miniaturization (driven by **Moore’s Law**), advanced networking technologies (5G, IPv6), and energy innovations like **energy harvesting**.
+   - Weiser categorized ubiquitous devices into **Tabs** (wearable, centimeter-sized), **Pads** (handheld devices), and **Live Boards** (large, interactive displays). These devices form the backbone of an environment where computing becomes as natural and invisible as reading or writing.
+
+5. **Wearable Computing:**
+   - **Wearable computing** ties into ubiquitous computing, where devices like smart glasses (e.g., Ray-Ban Meta) and **head-mounted displays (HMDs)** bring augmented, virtual, and mixed reality into everyday use. These devices are always available and near the body, allowing users to remain connected and immersed in the digital world.
+
 ## Conclusion:
-Capacitive touch technologies and interactive objects are paving the way for more seamless, ubiquitous computing environments. From gloves that enable touch interaction on smartphones to plants that act as digital interfaces, these innovations showcase how everyday objects can be integrated into digital ecosystems, enhancing mobile computing and making interactions more tangible and intuitive.
+This lecture illustrates how capacitive touch technology, combined with ubiquitous computing principles, is transforming our interaction with digital environments. As computing becomes more embedded in the world around us, we will interact with technology as naturally as we do with physical objects, with wearable devices bridging the gap between digital and real worlds.
 
 ___
 # Homework 
