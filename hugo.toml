@@ -185,7 +185,7 @@ url = "contact/"
 # [[languages.fr.menu.main]]
 # name = "Projets"
 # weight = 3
-# url = "projects/"
+# url = "content/projects/"
 
 # [[languages.fr.menu.main]]
 # name = "Contact"

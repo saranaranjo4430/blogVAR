@@ -1,6 +1,6 @@
 +++
 title = "Projetos"
-slug = "projects"
+slug = "projects_br"
 +++
 
 Nada para ver aqui.. Circulando!
