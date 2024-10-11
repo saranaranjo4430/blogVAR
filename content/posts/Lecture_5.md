@@ -74,6 +74,9 @@ ___
 # Homework 
 
 
+lknmk
+
+
 Task : enhacing human habilities in the age of augmented reality 
 Lecture 7
 Lecture 8
