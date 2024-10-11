@@ -49,7 +49,7 @@ In conclusion, the **design process** is iterative, with constant user involveme
 ___
 ## Examples in class : 
 ### Youtube Video : It's not you. Bad doors are everywhere - Vox
-{{<https://www.youtube.com/watch?v=yY96hTb8WgI>}}
+{{< youtube yY96hTb8WgI >}}
 
 <br> 
 The video titled "It's not you. Bad doors are everywhere" discusses the concept of "Norman Doors," which are doors designed so poorly that people struggle to figure out whether to push or pull them. The speaker emphasizes the importance of intuitive design, using doors as an example of how bad design can create frustration. The video explores how simple cues, like handles or labels, can either help or hinder user interaction, stressing the need for user-friendly design across all products.
