@@ -54,3 +54,23 @@ Importance of Research in HCI:
 The history of HCI shows that both industry and academia have contributed to groundbreaking developments. Conferences such as CHI (Human-Computer Interaction), CSCW (Computer-Supported Cooperative Work), and UbiComp (Ubiquitous Computing) provide platforms for cutting-edge research. Researchers' impact is often measured by their H-Index, which reflects the number of citations their work has received, indicating its influence in the field.
 
 In conclusion, understanding the history of HCI helps contextualize how technology has evolved to meet human needs and anticipate future trends. As new technologies emerge, HCI researchers and designers must consider both the technical possibilities and their ethical implications to ensure that future systems are designed responsibly and user-friendly.
+___
+# Homework 
+
+## Dark Design Patterns
+### Dark Pattern 1:
+{{< notice example >}}
+A website that has a countdown timer on a sale that resets when you reload the page.
+{{< /notice >}} 
+**Dark Pattern:** "False Urgency" – This creates a fake sense of urgency by making users believe they need to act quickly, even though there’s no real deadline.
+
+**Redesign:** Be transparent about actual sale times and deadlines. If a sale is time-sensitive, provide a real, non-resetting timer that shows when it will end. Avoid manipulating users into making rushed decisions with deceptive tactics.
+
+### Dark Pattern 2:
+{{< notice example >}}
+Websites that automatically add items to your shopping cart.
+{{< /notice >}} 
+**Dark Pattern:** "Sneak into Basket" – Adding extra items without the user's clear consent.
+
+**Redesign:** Ensure that only the items the user selects are added to the cart, providing a confirmation step before adding extras.
+

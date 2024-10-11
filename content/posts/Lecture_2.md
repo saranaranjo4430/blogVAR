@@ -52,3 +52,28 @@ In class, we discussed two positions regarding HCI’s role in addressing ethica
 - **Statement B:** HCI should actively evaluate the ethical, moral, and social implications of systems, as designs inevitably encode values that affect users.
 
 The consensus in class was that **designers should evaluate their designs and remain in contact with experts to gather feedback**. Additionally, before a design is launched, it should be **validated by experts** to ensure it meets ethical and social standards. This approach balances technical innovation with responsible design, ensuring that systems are both functional and socially conscious.
+
+___
+# Homework 
+
+## Gestalt Laws
+### Bad Application 1:
+{{< notice example >}}
+A poorly designed bookshelf where books of different genres are placed together without clear visual separation.
+{{< /notice >}} 
+{{< figure src="/blogVAR/images/bookshelf.jpeg" alt="Bookshelf Example" caption="A bad application of the Gestalt Law" >}}
+**Gestalt Law:** Law of Similarity – Objects that share visual characteristics are perceived as related.
+
+**Problem:** If mystery novels and science fiction books are mixed together without any kind of visual cue (like different colored sections or labels), users might have a harder time distinguishing between the genres. This disrupts the browsing experience.
+
+**Fix:** Use clear genre labels, different color-coded sections, or signage that visually separates the categories to help users find what they are looking for more efficiently.
+
+### Bad Application 2:
+{{< notice example >}}
+Street signs on a busy road where different signs are placed too close together.
+{{< /notice >}} 
+**Gestalt Law:** Law of Proximity – Objects close to each other are perceived as related.
+
+**Problem:** When signs are placed close together (e.g., speed limits, directions, and warnings), drivers might mistakenly associate them as a single message or miss some of them because they’re too cluttered.
+
+**Fix:** Space out the signs appropriately so each one is clearly distinct from the others, making it easier for drivers to process the information quickly.
