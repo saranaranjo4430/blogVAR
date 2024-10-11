@@ -56,3 +56,21 @@ Number of sensors : 1
 Then the test starts, and at the end we have two folders with the information : 
 images : 
 depth information : .npy files 
+
+
+## Direct live information 
+
+{{< notice tip >}}
+python real_time.py
+{{< /notice >}}
+
+And the camera turns on and you can do thing in real time. 
+
+We can modify the real_time-py file to add blocks where people is. 
+
+SDK Brouser Kinect : there are some projects in there. 
+
+We install the developper toolkit for kinect. 
+
+
+Reconstruct

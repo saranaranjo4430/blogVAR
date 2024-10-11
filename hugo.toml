@@ -148,30 +148,12 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "HCI"
-weight = 2
-url = "labs/"
-# Set URL to "#" so the parent item is not clickable, but the sub-items are.
-
-[[languages.en.menu.main]]
-name = "Lectures"
-parent = "HCI"
-weight = 3
-url = "lectures/"
-
-[[languages.en.menu.main]]
-name = "Labs"
-parent = "HCI"
-weight = 2
-url = "labs/"  # Update the URL for Labs if you have a Labs page.
-
-[[languages.en.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Examples"
+name = "HCI"
 weight = 4
 url = "posts/"
 
