@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/blogVAR/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blogVAR/livereload" data-no-instant defer></script>
+  <title>
+  Lecture 8 · Sara Naranjo
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Sara Naranjo">
+<meta name="description" content="AR/VR/MR &#43; HCI Research">
+<meta name="keywords" content="blog, engineer, personnel ">
+<meta name="fediverse:creator" content="" />
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Lecture 8">
+  <meta name="twitter:description" content="AR/VR/MR &#43; HCI Research">
+
+<meta property="og:url" content="http://localhost:1313/blogVAR/posts/lecture_8/">
+  <meta property="og:site_name" content="Sara Naranjo">
+  <meta property="og:title" content="Lecture 8">
+  <meta property="og:description" content="AR/VR/MR &#43; HCI Research">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-10-12T11:00:55+02:00">
+    <meta property="article:modified_time" content="2024-10-12T11:00:55+02:00">
+    <meta property="article:tag" content="Cave">
+    <meta property="article:tag" content="AR">
+    <meta property="article:tag" content="VR">
+    <meta property="article:tag" content="Research VR">
+    <meta property="article:tag" content="HMDs">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/blogVAR/posts/lecture_8/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/blogVAR/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/blogVAR/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/blogVAR/">
+      Sara Naranjo
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/about/">About</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/projects/">Projects</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/posts/">HCI</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/contact/">Contact me</a>
+              
+              
+            </li>
+          
+        
+
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/blogVAR/posts/lecture_8/">
+              Lecture 8
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-10-12T11:00:55&#43;02:00">
+                October 12, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              5-minute read
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/blogVAR/authors/sara-naranjo/">Sara Naranjo</a></div>
+
+          
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/blogVAR/tags/cave/">Cave</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/ar/">AR</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/vr/">VR</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/research-vr/">Research VR</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/hmds/">HMDs</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="summary-and-key-concepts-of-the-lecture">
+  Summary and key concepts of the lecture
+  <a class="heading-link" href="#summary-and-key-concepts-of-the-lecture">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>The <strong>CAVE® (Cave Automatic Virtual Environment)</strong>, developed in 1993, was one of the earliest forms of immersive virtual reality (VR). It used projection screens on multiple walls of a room to immerse users in a 3D environment, a precursor to modern VR technologies.</p>
+<h2 id="key-concepts">
+  Key Concepts:
+  <a class="heading-link" href="#key-concepts">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ol>
+<li>
+<p><strong>CAVE Virtual Reality System</strong>:</p>
+<ul>
+<li>Users interacted with VR content projected onto the walls of a room-sized cube.</li>
+<li>The system allowed immersive experiences, but with limited mobility, as users remained within the projection space.</li>
+</ul>
+</li>
+<li>
+<p><strong>Evolution of VR Technology</strong>:</p>
+<ul>
+<li>Since the 90s, VR has evolved rapidly. Today, consumer-grade VR systems, such as those available in homes, provide higher quality experiences than the most advanced labs did in the past.</li>
+<li>Devices such as <strong>Head-Mounted Displays (HMDs)</strong> have become the standard for VR research, offering portability and a more immersive experience compared to the stationary nature of CAVE systems.</li>
+</ul>
+</li>
+<li>
+<p><strong>Head-Mounted Displays (HMDs)</strong>:</p>
+<ul>
+<li><strong>Display Screens</strong>: High-resolution screens for each eye, often with OLED or LCD technology, offer users immersive visual experiences.</li>
+<li><strong>Optics and Tracking</strong>: HMDs incorporate lenses and sensors like accelerometers and gyroscopes for accurate head tracking and virtual object positioning.</li>
+<li><strong>Audio</strong>: Built-in 3D spatial audio enhances the immersive environment, with sounds dynamically adjusting based on user movement.</li>
+<li><strong>Input Systems</strong>: VR interaction is facilitated by controllers, gesture recognition, or even eye-tracking technology.</li>
+</ul>
+</li>
+<li>
+<p><strong>Consumer vs. Research VR</strong>:</p>
+<ul>
+<li>Many research labs today rely on the same consumer devices available to the public (e.g., Oculus Rift, HTC Vive). The accessibility of VR technology has democratized VR research, lowering costs and allowing broader participation.</li>
+<li>Mobile VR headsets, although less powerful than tethered systems, offer users flexibility and accessibility, expanding VR’s reach beyond specialized research labs.</li>
+</ul>
+</li>
+<li>
+<p><strong>Ubiquitous Computing &amp; VR</strong>:</p>
+<ul>
+<li>As VR technology advances, it intersects with <strong>ubiquitous computing</strong>, a vision where computing is seamlessly integrated into everyday life. Devices like HMDs are becoming smaller and more wearable, advancing toward the concept of <strong>wearable computing</strong>—always available, always connected.</li>
+<li>Mark Weiser’s vision of <strong>ubiquitous computing</strong>—where technology &ldquo;weaves itself into the fabric of everyday life&rdquo;—is materializing as VR devices become more portable, embedded, and less intrusive, laying the foundation for a future where immersive experiences are as common as smartphones today.</li>
+</ul>
+</li>
+</ol>
+<h2 id="conclusion">
+  Conclusion:
+  <a class="heading-link" href="#conclusion">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The journey from the CAVE system to modern HMDs reflects the dramatic evolution in VR technology. Today, consumer-level VR systems outperform older, expensive lab equipment, democratizing access to immersive virtual environments. This shift also ties into the broader trend of ubiquitous computing, where technology becomes an invisible, integrated part of our everyday interactions.</p>
+<hr>
+<h1 id="homework-prototype">
+  Homework: Prototype
+  <a class="heading-link" href="#homework-prototype">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h3 id="smart-fridge-organizer-app-concept">
+  Smart Fridge Organizer App Concept
+  <a class="heading-link" href="#smart-fridge-organizer-app-concept">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The <strong>Smart Fridge Organizer</strong> is a mobile app designed to simplify food inventory management, allowing users to keep track of their fridge and counter items, and helping them avoid waste and optimize meal planning.</p>
+<h3 id="key-features">
+  Key Features:
+  <a class="heading-link" href="#key-features">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ol>
+<li>
+<p><strong>QR Code Integration for Easy Input</strong>:
+The app integrates with supermarkets by using a QR code provided during purchase. Supermarkets have access to information like product expiration dates, lots, and nutritional details, which are embedded in the QR code. When users scan this QR code, the app automatically uploads all the purchased items into the inventory, including their expiration dates. This feature is essential as traditional receipts are often illegible, making manual input cumbersome. By scanning the supermarket&rsquo;s QR code, users don&rsquo;t have to input their items one by one, saving time and effort.</p>
+</li>
+<li>
+<p><strong>Expiration Date Alerts</strong>:
+The app notifies users when a product is approaching its expiration date, helping to minimize food waste. These expiration dates are automatically loaded when scanning the QR code from the supermarket.</p>
+</li>
+<li>
+<p><strong>Recipe Suggestions Based on Ingredients</strong>:
+With a focus on reducing waste and simplifying cooking, the app offers recipe suggestions based on the ingredients you currently have. Users can filter recipes by dietary preferences or specific nutritional goals, such as low-carb, high-protein, or balanced meals.</p>
+</li>
+<li>
+<p><strong>Nutritional Information &amp; Custom Recipes</strong>:
+The app provides detailed nutritional information for each item in the inventory, retrieved from the QR code&rsquo;s data. Users can generate custom recipes based on their nutritional preferences, setting calorie or macronutrient targets for meals.</p>
+</li>
+<li>
+<p><strong>Tracking Non-Fridge Items</strong>:
+The app also allows users to track items on the counter, such as bread, fruits, or other pantry products, ensuring that the entire kitchen&rsquo;s food inventory is covered.</p>
+</li>
+</ol>
+<h3 id="workflow-example">
+  Workflow Example:
+  <a class="heading-link" href="#workflow-example">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li>After a shopping trip, scan the QR code provided by the supermarket.</li>
+<li>The app automatically updates your inventory with all the purchased products, their expiration dates, nutritional information, and more.</li>
+<li>Get alerts when items are about to expire and view recipe ideas that make use of your soon-to-expire ingredients.</li>
+<li>Search or receive custom recipe suggestions based on the ingredients you have and your nutritional needs.</li>
+</ul>
+<p>This combination of automation, tracking, and health-focused features makes the <strong>Smart Fridge Organizer</strong> a powerful tool for both simplifying kitchen management and promoting healthier, waste-free living.</p>
+<p>Here&rsquo;s an example of what the actual app might look like :</p>
+<h3 id="features">
+  Features:
+  <a class="heading-link" href="#features">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<ul>
+<li><strong>Home Screen</strong>: Displays organized food inventory by expiration.</li>
+<li><strong>Add Items</strong>: You can easily add items via barcode or receipt scanning.</li>
+<li><strong>Recipe Suggestions</strong>: Provides recipe ideas based on what you already have.</li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2024
+     Sara Naranjo 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/blogVAR/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

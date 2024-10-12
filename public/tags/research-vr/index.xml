@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research VR on Sara Naranjo</title>
+    <link>http://localhost:1313/blogVAR/tags/research-vr/</link>
+    <description>Recent content in Research VR on Sara Naranjo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Oct 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/tags/research-vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 8</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_8/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_8/</guid>
+      <description>&lt;h1 id=&#34;summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;  Summary and key concepts of the lecture&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;CAVE® (Cave Automatic Virtual Environment)&lt;/strong&gt;, developed in 1993, was one of the earliest forms of immersive virtual reality (VR). It used projection screens on multiple walls of a room to immerse users in a 3D environment, a precursor to modern VR technologies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;&#xA;  Key Concepts:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-concepts&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CAVE Virtual Reality System&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

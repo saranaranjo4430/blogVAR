@@ -6,8 +6,99 @@
     <description>Recent content in Tags on Sara Naranjo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 11:00:55 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blogVAR/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AR</title>
+      <link>http://localhost:1313/blogVAR/tags/ar/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/ar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cave</title>
+      <link>http://localhost:1313/blogVAR/tags/cave/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/cave/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>http://localhost:1313/blogVAR/tags/evaluation/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HMDs</title>
+      <link>http://localhost:1313/blogVAR/tags/hmds/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/hmds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prototyping</title>
+      <link>http://localhost:1313/blogVAR/tags/prototyping/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/prototyping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research VR</title>
+      <link>http://localhost:1313/blogVAR/tags/research-vr/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/research-vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/blogVAR/tags/testing/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VR</title>
+      <link>http://localhost:1313/blogVAR/tags/vr/</link>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interactive Gloves</title>
+      <link>http://localhost:1313/blogVAR/tags/interactive-gloves/</link>
+      <pubDate>Tue, 08 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/interactive-gloves/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile Computing</title>
+      <link>http://localhost:1313/blogVAR/tags/mobile-computing/</link>
+      <pubDate>Tue, 08 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/mobile-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubiquitous Computing</title>
+      <link>http://localhost:1313/blogVAR/tags/ubiquitous-computing/</link>
+      <pubDate>Tue, 08 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/ubiquitous-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/blogVAR/tags/design/</link>
+      <pubDate>Tue, 01 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Processes</title>
+      <link>http://localhost:1313/blogVAR/tags/processes/</link>
+      <pubDate>Tue, 01 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/processes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Affordance</title>
       <link>http://localhost:1313/blogVAR/tags/affordance/</link>
@@ -41,6 +132,41 @@
       <link>http://localhost:1313/blogVAR/tags/perception/</link>
       <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
       <guid>http://localhost:1313/blogVAR/tags/perception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D User Interfaces</title>
+      <link>http://localhost:1313/blogVAR/tags/3d-user-interfaces/</link>
+      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/3d-user-interfaces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Input Devices</title>
+      <link>http://localhost:1313/blogVAR/tags/input-devices/</link>
+      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/input-devices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History of HCI</title>
+      <link>http://localhost:1313/blogVAR/tags/history-of-hci/</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/history-of-hci/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental Models</title>
+      <link>http://localhost:1313/blogVAR/tags/mental-models/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/mental-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metaphors</title>
+      <link>http://localhost:1313/blogVAR/tags/metaphors/</link>
+      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/tags/metaphors/</guid>
       <description></description>
     </item>
     <item>

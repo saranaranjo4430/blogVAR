@@ -10,59 +10,31 @@
     <atom:link href="http://localhost:1313/blogVAR/tags/cognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lab 3</title>
-      <link>http://localhost:1313/blogVAR/labs/lab_3/</link>
+      <link>http://localhost:1313/blogVAR/posts/lab_3/</link>
       <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/labs/lab_3/</guid>
+      <guid>http://localhost:1313/blogVAR/posts/lab_3/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Lecture 4</title>
-      <link>http://localhost:1313/blogVAR/lectures/lecture_4/</link>
-      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/lectures/lecture_4/</guid>
-      <description>&lt;p&gt;Summary of Lecture: 3D User Interfaces and Input Hardware&#xA;This lecture focuses on 3D User Interfaces (UIs), with particular attention on the input devices used for immersive and desktop applications. The choice of input hardware plays a crucial role in the usability and effectiveness of 3D UIs, impacting user interaction and the naturalness of the experience.&lt;/p&gt;&#xA;&lt;p&gt;Key Concepts:&#xA;Importance of Input Devices in 3D UIs:&lt;/p&gt;&#xA;&lt;p&gt;Just as important as output devices, input devices are key to enabling user interaction in 3D environments. They are selected based on attributes like precision, degrees of freedom (DOF), and the type of data they generate.&#xA;The relationship between input devices and interaction techniques directly affects the efficiency and naturalness of 3D user interactions.&#xA;Degrees of Freedom (DOF):&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lecture 5</title>
-      <link>http://localhost:1313/blogVAR/lectures/lecture_5/</link>
-      <pubDate>Tue, 24 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/lectures/lecture_5/</guid>
-      <description>&lt;p&gt;Summary of Lecture: Design Processes – Prototyping and Evaluation&#xA;This lecture focuses on the design process in Human-Centered Design (HCD), emphasizing the importance of user involvement, prototyping, and evaluation to create systems that are both usable and useful. The design process follows a structured, iterative approach, incorporating user feedback and addressing their needs at every stage.&lt;/p&gt;&#xA;&lt;p&gt;Key Concepts:&#xA;Human-Centered Design (HCD):&lt;/p&gt;&#xA;&lt;p&gt;HCD is an approach that prioritizes the needs, behaviors, and requirements of people involved in the system, not just end-users but all stakeholders, including designers, developers, and even those who maintain the system.&#xA;It involves applying human factors, ergonomics, and usability principles to ensure systems are usable and user-friendly.&#xA;User-Centered Design (UCD):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab 2</title>
-      <link>http://localhost:1313/blogVAR/labs/lab_2/</link>
+      <link>http://localhost:1313/blogVAR/posts/lab_2/</link>
       <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/labs/lab_2/</guid>
+      <guid>http://localhost:1313/blogVAR/posts/lab_2/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Lecture 3</title>
-      <link>http://localhost:1313/blogVAR/lectures/lecture_3/</link>
-      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/lectures/lecture_3/</guid>
-      <description>&lt;p&gt;à ajuster&lt;/p&gt;&#xA;&lt;p&gt;Summary of Lecture: History of HCI&#xA;The history of Human-Computer Interaction (HCI) reveals how individual researchers, technological advancements, and evolving user needs have shaped the field over time. HCI emerged in the 1970s and 1980s, grounded in engineering, cognitive psychology, and ergonomics, with the primary goal of enhancing usability. Over time, it has become a highly interdisciplinary field, incorporating insights from computer science, psychology, design, and cognitive science.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lab 1</title>
-      <link>http://localhost:1313/blogVAR/labs/lab_1/</link>
+      <link>http://localhost:1313/blogVAR/posts/lab_1/</link>
       <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/labs/lab_1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lecture 2</title>
-      <link>http://localhost:1313/blogVAR/lectures/lecture_2/</link>
-      <pubDate>Tue, 17 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/lectures/lecture_2/</guid>
-      <description>&lt;p&gt;à ajuster&lt;/p&gt;&#xA;&lt;p&gt;Mental Models are essential tools that guide how people think, understand, and interact with the world. These cognitive frameworks allow individuals to predict outcomes, reason through unfamiliar situations, and make informed decisions. In the context of Human-Computer Interaction (HCI), mental models are critical for creating user-friendly and intuitive systems.&lt;/p&gt;&#xA;&lt;p&gt;Key Concepts:&#xA;Mental Models:&lt;/p&gt;&#xA;&lt;p&gt;Mental models are internal representations that help individuals understand how things work. These models enable people to simulate scenarios, predict outcomes, and guide their behavior.&#xA;For example, someone with a mental model of how a bicycle works can predict that a broken chain will prevent the bicycle from functioning properly.&#xA;Deductive Reasoning:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blogVAR/posts/lab_1/</guid>
+      <description>&lt;p&gt;kuyylkuygb.khñoi&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lecture 1</title>
-      <link>http://localhost:1313/blogVAR/lectures/lecture_1/</link>
+      <link>http://localhost:1313/blogVAR/posts/lecture_1/</link>
       <pubDate>Mon, 16 Sep 2024 11:00:55 +0200</pubDate>
-      <guid>http://localhost:1313/blogVAR/lectures/lecture_1/</guid>
-      <description>&lt;p&gt;à relire&lt;/p&gt;&#xA;&lt;h1 id=&#34;summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;  Summary and key concepts of the lecture&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Human-Computer Interaction (HCI) focuses on designing intuitive, efficient, and user-friendly interfaces between humans and computer systems. Here are the key forms and concepts discussed in the lecture:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Input Devices:&#xA;Devices that allow users to input commands or data into a system, such as keyboards, mice, touchscreens, and motion sensors.&lt;/li&gt;&#xA;&lt;li&gt;Output Devices:&#xA;These provide feedback to the user through visual, auditory, or tactile means, including monitors, speakers, and augmented reality displays.&lt;/li&gt;&#xA;&lt;li&gt;User Interface Elements:&#xA;Components like buttons, sliders, icons, and text fields that users interact with to communicate with the computer.&lt;/li&gt;&#xA;&lt;li&gt;Graphical User Interface (GUI):&#xA;A visual-based interface with elements like windows, icons, and menus, commonly used in operating systems and applications.&lt;/li&gt;&#xA;&lt;li&gt;Command-Line Interface (CLI):&#xA;A text-based interface where users type commands to interact with the system, typically used by advanced users or developers.&lt;/li&gt;&#xA;&lt;li&gt;Natural Language Interfaces:&#xA;Interfaces that allow interaction through spoken or written natural language, such as virtual assistants like Siri or Alexa.&lt;/li&gt;&#xA;&lt;li&gt;Gesture-Based Interfaces:&#xA;Interfaces that interpret physical gestures or motions to interact with the system, often used in virtual and augmented reality.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-is-hci&#34;&gt;&#xA;  What is HCI?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-hci&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;HCI is a discipline that aims to optimize the interaction between people and computers, focusing on usability and user satisfaction. Understanding user needs and behavior is key in designing better interfaces.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_1/</guid>
+      <description>&lt;h1 id=&#34;summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;  Summary and key concepts of the lecture&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Human-Computer Interaction (HCI) focuses on designing intuitive, efficient, and user-friendly interfaces between humans and computer systems. Here are the key forms and concepts discussed in the lecture:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Input Devices:&lt;/strong&gt;&#xA;Devices that allow users to input commands or data into a system, such as keyboards, mice, touchscreens, and motion sensors.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Output Devices:&lt;/strong&gt;&#xA;These provide feedback to the user through visual, auditory, or tactile means, including monitors, speakers, and augmented reality displays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;User Interface Elements:&lt;/strong&gt;&#xA;Components like buttons, sliders, icons, and text fields that users interact with to communicate with the computer.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Graphical User Interface (GUI):&lt;/strong&gt;&#xA;A visual-based interface with elements like windows, icons, and menus, commonly used in operating systems and applications.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Command-Line Interface (CLI):&lt;/strong&gt;&#xA;A text-based interface where users type commands to interact with the system, typically used by advanced users or developers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural Language Interfaces:&lt;/strong&gt;&#xA;Interfaces that allow interaction through spoken or written natural language, such as virtual assistants like Siri or Alexa.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gesture-Based Interfaces:&lt;/strong&gt;&#xA;Interfaces that interpret physical gestures or motions to interact with the system, often used in virtual and augmented reality.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;what-is-hci&#34;&gt;&#xA;  What is HCI?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-hci&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;HCI is a discipline that aims to optimize the interaction between people and computers, focusing on usability and user satisfaction. Understanding user needs and behavior is key in designing better interfaces.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

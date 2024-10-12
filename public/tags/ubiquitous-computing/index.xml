@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubiquitous Computing on Sara Naranjo</title>
+    <link>http://localhost:1313/blogVAR/tags/ubiquitous-computing/</link>
+    <description>Recent content in Ubiquitous Computing on Sara Naranjo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Oct 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/tags/ubiquitous-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 7</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_7/</link>
+      <pubDate>Tue, 08 Oct 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_7/</guid>
+      <description>&lt;h1 id=&#34;summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;  Summary and key concepts of the lecture&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This lecture explores &lt;strong&gt;quick prototyping techniques&lt;/strong&gt; for interactive gloves and how capacitive touch technology integrates with mobile and ubiquitous computing. These advances create seamless, intuitive interfaces by turning everyday objects into interactive surfaces.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;&#xA;  Key Concepts:&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-concepts&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interactive Gloves for Capacitive Screens:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Using conductive materials, gloves can be adapted to interact with capacitive touchscreens, providing an easy and rapid prototype for user-device interaction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;CapWidgets, CapStones, and ZebraWidgets:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History of HCI on Sara Naranjo</title>
+    <link>http://localhost:1313/blogVAR/tags/history-of-hci/</link>
+    <description>Recent content in History of HCI on Sara Naranjo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogVAR/tags/history-of-hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 3</title>
+      <link>http://localhost:1313/blogVAR/posts/lecture_3/</link>
+      <pubDate>Mon, 23 Sep 2024 11:00:55 +0200</pubDate>
+      <guid>http://localhost:1313/blogVAR/posts/lecture_3/</guid>
+      <description>&lt;h1 id=&#34;summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;  Summary and key concepts of the lecture&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#summary-and-key-concepts-of-the-lecture&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;The history of &lt;strong&gt;Human-Computer Interaction (HCI)&lt;/strong&gt; reveals how individual researchers, technological advancements, and evolving user needs have shaped the field over time. HCI emerged in the 1970s and 1980s, grounded in engineering, cognitive psychology, and ergonomics, with the primary goal of enhancing usability. Over time, it has become a highly interdisciplinary field, incorporating insights from computer science, psychology, design, and cognitive science.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

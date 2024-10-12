@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/blogVAR/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blogVAR/livereload" data-no-instant defer></script>
+  <title>
+  Lecture 11 · Sara Naranjo
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Sara Naranjo">
+<meta name="description" content="jlksdnvks">
+<meta name="keywords" content="blog, engineer, personnel ">
+<meta name="fediverse:creator" content="" />
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Lecture 11">
+  <meta name="twitter:description" content="jlksdnvks">
+
+<meta property="og:url" content="http://localhost:1313/blogVAR/posts/lecture_11/">
+  <meta property="og:site_name" content="Sara Naranjo">
+  <meta property="og:title" content="Lecture 11">
+  <meta property="og:description" content="jlksdnvks">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-10-12T11:00:55+02:00">
+    <meta property="article:modified_time" content="2024-10-12T11:00:55+02:00">
+    <meta property="article:tag" content="Prototyping">
+    <meta property="article:tag" content="Evaluation">
+    <meta property="article:tag" content="Testing">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/blogVAR/posts/lecture_11/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/blogVAR/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/blogVAR/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/blogVAR/">
+      Sara Naranjo
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/about/">About</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/projects/">Projects</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/posts/">HCI</a>
+              
+              
+            </li>
+          
+            <li class="navigation-item ">
+              <a class="navigation-link " href="/blogVAR/contact/">Contact me</a>
+              
+              
+            </li>
+          
+        
+
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/blogVAR/posts/lecture_11/">
+              Lecture 11
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2024-10-12T11:00:55&#43;02:00">
+                October 12, 2024
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              2-minute read
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa-solid fa-user" aria-hidden="true"></i>
+    <a href="/blogVAR/authors/sara-naranjo/">Sara Naranjo</a></div>
+
+          
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/blogVAR/tags/prototyping/">Prototyping</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/evaluation/">Evaluation</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/blogVAR/tags/testing/">Testing</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <hr>
+<h1 id="homework-the-computer-for-the-21st-century">
+  Homework: The Computer for the 21st Century
+  <a class="heading-link" href="#homework-the-computer-for-the-21st-century">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<p>Here&rsquo;s the link to the article by Mark Weiser: <a href="https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf"  class="external-link" target="_blank" rel="noopener">The Computer for the 21st Century</a></p>
+<h4 id="are-we-already-living-in-a-world-of-ubiquitous-computing">
+  Are we already living in a world of ubiquitous computing?
+  <a class="heading-link" href="#are-we-already-living-in-a-world-of-ubiquitous-computing">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<p>Mark Weiser&rsquo;s vision of ubiquitous computing, where technology seamlessly integrates into our everyday lives, is partially realized today. Devices like smartphones, smartwatches, IoT devices, and AI assistants are embedded into our daily activities, often working invisibly in the background.</p>
+<h4 id="what-has-already-happened">
+  What has already happened:
+  <a class="heading-link" href="#what-has-already-happened">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<ul>
+<li><strong>Miniaturization:</strong> Small, powerful devices like smartphones, wearables, and embedded systems in home appliances.</li>
+<li><strong>Network Connectivity:</strong> The rise of the Internet of Things (IoT) and fast, reliable networks (5G, Wi-Fi) allow interconnected devices to function cohesively.</li>
+<li><strong>Cloud Computing:</strong> The shift to cloud services has allowed for distributed computing power that fits the ubiquitous model, where users access services across multiple devices.</li>
+</ul>
+<h4 id="what-still-needs-to-happen">
+  What still needs to happen:
+  <a class="heading-link" href="#what-still-needs-to-happen">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h4>
+<ul>
+<li><strong>Energy Solutions:</strong> Current technology relies heavily on batteries, which require frequent recharging. We need improvements in energy efficiency, battery life, and alternative energy sources like energy harvesting to reduce dependency on power sources.</li>
+<li><strong>Interoperability:</strong> A truly ubiquitous environment needs standardization and better integration between devices and platforms to communicate seamlessly.</li>
+<li><strong>More Natural Interfaces:</strong> For ubiquitous computing to reach its full potential, interfaces like voice, gestures, and even brain-computer interactions must improve, making technology feel more natural and less intrusive.</li>
+<li><strong>Data Privacy and Security:</strong> As computing becomes more pervasive, ensuring the security and privacy of users in this highly interconnected world will be a crucial challenge.</li>
+</ul>
+<p>In conclusion, while we are closer to the ubiquitous computing that Weiser envisioned, achieving a fully immersive, seamless integration of technology into the fabric of everyday life still requires advancements in energy, standardization, and security.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+    2024
+     Sara Naranjo 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/blogVAR/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

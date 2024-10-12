@@ -74,3 +74,11 @@ We install the developper toolkit for kinect.
 
 
 Reconstruct
+
+## Examples 
+{{< figure src="/blogVAR/images/deepness.png" alt="Deepness" caption="Deepness Representation" >}}
+{{< figure src="/blogVAR/images/facerecongnition.png" alt="Face Recognition" caption="Face Recognition" >}}
+{{< figure src="/blogVAR/images/square.png" alt="Square" caption="Face Recognition" >}}
+{{< figure src="/blogVAR/images/3D_reconstruction.mp4" alt="3D reconstruction" caption="3D Reconstruction" >}}
+{{< figure src="/blogVAR/images/skeleton.mp4" alt="Skeleton" caption="Skeleton" >}}
+{{< figure src="/blogVAR/images/blender.png" alt="3D reconstruction in Blender" caption="3D reconstruction in Blender" >}}

@@ -6,12 +6,12 @@
     <description>Recent content in Authors on Sara Naranjo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Sep 2024 11:00:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 11:00:55 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blogVAR/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sara Naranjo</title>
       <link>http://localhost:1313/blogVAR/authors/sara-naranjo/</link>
-      <pubDate>Wed, 25 Sep 2024 11:00:55 +0200</pubDate>
+      <pubDate>Sat, 12 Oct 2024 11:00:55 +0200</pubDate>
       <guid>http://localhost:1313/blogVAR/authors/sara-naranjo/</guid>
       <description></description>
     </item>
@@ -20,6 +20,13 @@
       <link>http://localhost:1313/blogVAR/authors/lone-coder/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogVAR/authors/lone-coder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programador Solitário</title>
+      <link>http://localhost:1313/blogVAR/authors/programador-solit%C3%A1rio/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogVAR/authors/programador-solit%C3%A1rio/</guid>
       <description></description>
     </item>
     <item>
