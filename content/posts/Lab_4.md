@@ -83,8 +83,25 @@ Reconstruct
   <source src="/images/3D_reconstruction.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 <video width="640" height="360" controls>
   <source src="/blogVAR/images/skeleton.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<video width="" height="" controls>
+  <source src="/blogVAR/images/skeleton.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="/images/skeleton.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="/static/images/skeleton.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 {{< figure src="/blogVAR/images/blender.png" alt="3D reconstruction in Blender" caption="3D reconstruction in Blender" >}}
