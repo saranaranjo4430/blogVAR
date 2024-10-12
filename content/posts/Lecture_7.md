@@ -41,4 +41,19 @@ This lecture explores **quick prototyping techniques** for interactive gloves an
 This lecture illustrates how capacitive touch technology, combined with ubiquitous computing principles, is transforming our interaction with digital environments. As computing becomes more embedded in the world around us, we will interact with technology as naturally as we do with physical objects, with wearable devices bridging the gap between digital and real worlds.
 
 ___
-# Homework 
+# Homework: Ideate
+#### Three Ideas for Innovative Concepts
+
+1. **Smart Fridge Organizer App**:
+   A mobile app that scans and categorizes your groceries when stored in the fridge, helping reduce waste by sending reminders before expiration and suggesting recipes based on available ingredients.
+   - *Interaction*: Voice-activated commands and barcode scanning.
+
+2. **Augmented Reality Furniture Planner**:
+   An AR app that allows users to place virtual furniture in their home to visualize how it fits in the space.
+   - *Interaction*: Drag-and-drop through touch gestures, real-time scaling, and room measurements.
+
+3. **Fitness Band for Posture Correction**:
+   A wearable band that tracks and alerts users about poor posture during the day using gentle vibrations.
+   - *Interaction*: Vibration feedback and real-time tracking on a connected app.
+
+
