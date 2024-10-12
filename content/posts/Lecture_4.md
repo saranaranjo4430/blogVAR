@@ -54,3 +54,20 @@ In conclusion, the design of 3D UIs involves a range of input devices, each suit
 
 ___
 # Homework 
+Present one HCI researcher : 
+**Dr. Pattie Maes**  
+Dr. Pattie Maes is a prominent researcher in the field of HCI and heads the **Fluid Interfaces Group** at the MIT Media Lab. Her current research focuses on designing intuitive interfaces that improve the interaction between humans and machines, with a particular focus on **wearable computing**, **augmented reality**, and **brain-computer interfaces**. One of her well-known projects is **SixthSense**, a gesture-based interface that allows users to interact with digital information using natural hand gestures. Her work aims to create seamless, intelligent systems that enhance human abilities and improve daily interactions with technology. 
+
+Dr. Maes' contributions have significantly shaped the field of HCI by exploring how technology can be integrated into everyday human environments in a way that feels natural and unobtrusive.
+Here are a few examples of her work:
+{{< notice example >}}
+1. **"SixthSense: A Wearable Gestural Interface"**  
+   This paper discusses the development of the **SixthSense** technology, a wearable gestural interface that allows interaction with digital information through hand gestures.
+
+2. **"Augmented Reality in Education: Enhancing Learning with Interactive Technologies"**  
+   Explores the potential of **augmented reality** in improving educational experiences.
+
+3. **"Wearable Computing: Challenges and Opportunities"**  
+   Focuses on the design and usability challenges in **wearable technologies**. 
+{{< /notice >}} 
+
