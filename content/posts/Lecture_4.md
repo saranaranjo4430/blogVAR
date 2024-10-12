@@ -48,14 +48,12 @@ This lecture focuses on 3D User Interfaces (UIs), with particular attention on t
 
 ## Future Directions in Context-Aware Computing:
 - **Context-aware computing** is a rapidly growing field where devices adapt to their environment based on user context, such as location or activity. As input hardware and AI improve, we will see more seamless and intelligent 3D UIs that can predict and adapt to user needs in real-time.
-
 ## Conclusion 
 In conclusion, the design of 3D UIs involves a range of input devices, each suited to different tasks and interaction techniques. As the technology evolves, understanding the balance between complexity, usability, and physical interaction will be critical for the successful implementation of 3D UIs in real-world applications.
 
 ___
-# Homework 
-Present one HCI researcher : 
-**Dr. Pattie Maes**  
+# Homework: Present one HCI researcher 
+### Dr. Pattie Maes  
 Dr. Pattie Maes is a prominent researcher in the field of HCI and heads the **Fluid Interfaces Group** at the MIT Media Lab. Her current research focuses on designing intuitive interfaces that improve the interaction between humans and machines, with a particular focus on **wearable computing**, **augmented reality**, and **brain-computer interfaces**. One of her well-known projects is **SixthSense**, a gesture-based interface that allows users to interact with digital information using natural hand gestures. Her work aims to create seamless, intelligent systems that enhance human abilities and improve daily interactions with technology. 
 
 Dr. Maes' contributions have significantly shaped the field of HCI by exploring how technology can be integrated into everyday human environments in a way that feels natural and unobtrusive.

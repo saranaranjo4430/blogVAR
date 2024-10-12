@@ -53,9 +53,7 @@ Dark design patterns manipulate users into taking actions they wouldn’t normal
 In conclusion, as technology advances, it becomes increasingly important to design interfaces that respect users' cognitive limitations, prioritize accessibility, and avoid manipulative practices. Understanding cognition, perception, and behavior is key to creating intuitive and user-friendly systems. 
 
 ___
-# Homework:
-## Affordances (Good and Bad)
-
+# Homework: Affordances 
 ### Good Affordance:
 {{< notice example >}}
 A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).

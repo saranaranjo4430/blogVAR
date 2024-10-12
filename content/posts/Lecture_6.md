@@ -41,4 +41,18 @@ Dropping a ball from various heights and measuring the bounce height.
 - **Control variable:** the ball itself (it's dimensions, it's materials)
 {{< /notice >}}
 ___
-# Homework 
+# Homework: Input Devices and Interaction Paradigms
+
+#### Input Device: **Google Glass**
+**User Interface Type**: Wearable User Interface (WUI) and Augmented Reality (AR)
+
+**Overview**: Google Glass was an AR wearable launched in 2013, featuring a head-mounted display that provided hands-free access to information and services. Users interacted via voice commands, touch gestures on the frame, and head movements. The device projected information onto a small screen in the user’s field of vision.
+
+**Reasons for Failure**:
+- **Privacy Concerns**: The ability to record discreetly raised ethical issues.
+- **Price**: The high cost ($1500) limited consumer adoption.
+- **Limited Functionality**: The device lacked compelling use cases for everyday users and suffered from battery issues.
+  
+Despite its failure in the consumer market, Google Glass succeeded in industrial and medical applications, where privacy and cost concerns were outweighed by its utility in providing hands-free information.
+
+**Future Potential**: While it failed as a mass-market product, the core AR and wearable technology behind Google Glass could still succeed with better privacy safeguards and more affordable, advanced versions for specific industries. With the increasing focus on AR and IoT, refined iterations could see success in the future.

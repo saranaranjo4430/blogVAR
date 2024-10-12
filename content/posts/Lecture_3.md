@@ -64,9 +64,7 @@ The history of HCI shows that both industry and academia have contributed to gro
 # Conclusion 
 In conclusion, understanding the history of HCI helps contextualize how technology has evolved to meet human needs and anticipate future trends. As new technologies emerge, HCI researchers and designers must consider both the technical possibilities and their ethical implications to ensure that future systems are designed responsibly and user-friendly.
 ___
-# Homework 
-
-## Dark Design Patterns
+# Homework: Dark Design Patterns
 ### Dark Pattern 1:
 {{< notice example >}}
 A website that has a countdown timer on a sale that resets when you reload the page.

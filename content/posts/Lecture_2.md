@@ -56,8 +56,7 @@ In class, we discussed two positions regarding HCI’s role in addressing ethica
 The consensus in class was that **designers should evaluate their designs and remain in contact with experts to gather feedback**. Additionally, before a design is launched, it should be **validated by experts** to ensure it meets ethical and social standards. This approach balances technical innovation with responsible design, ensuring that systems are both functional and socially conscious.
 
 ___
-# Homework:
-## Gestalt Laws
+# Homework: Gestalt Laws
 ### Bad Application 1:
 {{< notice example >}}
 A poorly designed bookshelf where books of different genres are placed together without clear visual separation.

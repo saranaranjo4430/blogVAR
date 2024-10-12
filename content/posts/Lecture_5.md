@@ -71,8 +71,7 @@ The video titled "It's not you. Bad doors are everywhere" discusses the concept 
 This process ensures that the platform is both user-centered and built on top of an existing foundation, reducing development time and improving user satisfaction.
 {{< /notice >}}
 ___
-# Homework 
-### The Ultimate Display by Ivan Sutherland : 
+# Homework: Read the Ultimate Display by Ivan Sutherland
 Here's the link to the article: [The Ultimate Display](https://worrydream.com/refs/Sutherland_1965_-_The_Ultimate_Display.pdf)
 #### Summary 
 In his 1965 paper, _The Ultimate Display_, Ivan Sutherland envisioned a virtual world indistinguishable from reality. He predicted immersive virtual environments where computers would simulate experiences that engage all senses, even manipulating physical matter. His vision laid the foundation for modern VR and AR technologies, imagining a future where humans interact naturally with virtual worlds. Sutherland's ideas were groundbreaking, foreshadowing advancements in computer graphics, human-computer interaction, and immersive simulations that shape technology today.
