@@ -77,8 +77,14 @@ Reconstruct
 
 ## Examples 
 {{< figure src="/blogVAR/images/deepness.png" alt="Deepness" caption="Deepness Representation" >}}
-{{< figure src="/blogVAR/images/facerecongnition.png" alt="Face Recognition" caption="Face Recognition" >}}
+{{< figure src="/blogVAR/images/facerecognition.png" alt="Face Recognition" caption="Face Recognition" >}}
 {{< figure src="/blogVAR/images/square.png" alt="Square" caption="Face Recognition" >}}
-{{< figure src="/blogVAR/images/3D_reconstruction.mp4" alt="3D reconstruction" caption="3D Reconstruction" >}}
-{{< figure src="/blogVAR/images/skeleton.mp4" alt="Skeleton" caption="Skeleton" >}}
+<video width="640" height="360" controls>
+  <source src="/blogVAR/images/3D_reconstruction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="640" height="360" controls>
+  <source src="/blogVAR/images/skeleton.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 {{< figure src="/blogVAR/images/blender.png" alt="3D reconstruction in Blender" caption="3D reconstruction in Blender" >}}
