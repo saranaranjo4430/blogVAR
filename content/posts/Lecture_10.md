@@ -1,5 +1,5 @@
 +++ 
-date = 2024-10-12T11:00:55+02:00
+date = 2024-10-15T11:00:55+02:00
 title = "Lecture 10"
 description = "Pdfbdf"
 authors = ["Sara Naranjo"]
