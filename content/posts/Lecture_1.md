@@ -1,6 +1,6 @@
 +++
 date = 2024-09-16T11:00:55+02:00
-title = "Lecture 1"
+title = "Lecture 1 - Cognition and Perception"
 description = "Congnition and Perception"
 authors = ["Sara Naranjo"]
 tags = [

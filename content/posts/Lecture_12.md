@@ -1,7 +1,7 @@
 +++ 
 date = 2024-10-15T11:00:55+02:00
-title = "Lecture 12"
-description = "lecture 12"
+title = "Lecture 12 - Most Downloaded Applications in a Future MR App Store"
+description = "Most Downloaded Applications in a Future MR App Store"
 authors = ["Sara Naranjo"]
 tags = [
     "Prototyping",

@@ -1,6 +1,6 @@
 +++ 
 date = 2024-10-03T11:00:55+02:00
-title = "Lecture 6"
+title = "Lecture 6 - Prototyping and Evaluation"
 description = "Prototyping and Evaluation"
 authors = ["Sara Naranjo"]
 tags = [

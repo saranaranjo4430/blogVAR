@@ -1,6 +1,6 @@
 +++ 
 date = 2024-10-12T11:00:55+02:00
-title = "Lecture 8"
+title = "Lecture 8 - AR/VR/MR + HCI Research"
 description = "AR/VR/MR + HCI Research"
 authors = ["Sara Naranjo"]
 tags = [

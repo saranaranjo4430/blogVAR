@@ -1,7 +1,7 @@
 +++ 
 date = 2024-10-15T11:00:55+02:00
-title = "Lecture 11"
-description = "jlksdnvks"
+title = "Lecture 11 - The Computer for the 21st Century"
+description = "The Computer for the 21st Century"
 authors = ["Sara Naranjo"]
 tags = [
     "Prototyping",

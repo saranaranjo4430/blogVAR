@@ -1,6 +1,6 @@
 +++ 
 date = 2024-09-17T11:00:55+02:00
-title = "Lecture 2"
+title = "Lecture 2 - Metaphors and Mental Models"
 description = "Metaphors and Mental Models"
 authors = ["Sara Naranjo"]
 tags = [

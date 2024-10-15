@@ -1,7 +1,7 @@
 +++ 
 date = 2024-10-01T11:00:55+02:00
-title = "Lecture 5"
-description = "Design Processes"
+title = "Lecture 5 - Design Process"
+description = "Design Process"
 authors = ["Sara Naranjo"]
 tags = [
     "Design",
