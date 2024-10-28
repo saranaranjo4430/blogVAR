@@ -1,70 +1,48 @@
 +++ 
 date = 2024-09-25T11:00:55+02:00
-title = "My first project on Unity"
-description = "My first project on Unity"
+title = "Mobile Application of a Unity Game"
+description = "Mobile Application of a Unity Game"
 authors = ["Sara Naranjo"]
 tags = [
-    "Unity"
+    "Unity",
+    "Mobile Application"
     ]
 categories = []
 externalLink = ""
 series = []
 +++
 
-Here’s how I created my **first Unity project** – a simple game called *Roll-a-Ball* – and the steps I followed to bring it to life!
+Here’s how I got my Unity game running on my phone using the accelerometer with **Unity Remote 5**!
 
 ---
 
-### Step 1: Setting Up Unity 🎮
-- **Download Unity Hub** from [here](https://unity.com/download).
-- Install Unity Editor through Unity Hub.
-- Create a new 3D project and name it whatever you like. I called mine *Roll-a-Ball*.
+### Step 1: Download Unity Remote 5 📲
+- First, I downloaded **Unity Remote 5** on my phone from the App Store. This lets you test Unity games live on your mobile.
 
-### Step 2: Follow the Tutorial
-You can follow the official *Roll-a-Ball* tutorial on [Unity Learn](https://learn.unity.com/project/roll-a-ball), but here’s what I did!
+### Step 2: Setting Up Accelerometer Controls 🎮
+- **Remove Windows Player Input**: In the Inspector panel, remove the original Player Input to avoid conflicts.
+- **Create Mobile Input**: Add a new *Player Input* in a folder called `MobileInput`, set it up as `mobileInPutInteraction` in the Inspector, and assign it under *Actions*.
 
----
+### Step 3: Updating the PlayerController Script 📜
+- I updated `PlayerController.cs` to use the iPhone’s accelerometer instead of `rb.AddForce(movement * speed)`. This was done by setting up a boolean (`isMobileBuild`) to switch to accelerometer input, using `rb.AddForce(accelerometer_values)`.
 
-### Project Breakdown:
+### Step 4: Modifying Camera View 🎥
+- I changed the main camera to a top view for easier control, plus added UI text to display acceleration values with **TextMeshPro**.
 
-#### **Unity’s Prefab System:**
-I used **Prefabs** to reuse GameObjects (GOs). Here’s how:
-- **Drag the GameObject** from the Hierarchy into the `Assets/Prefabs` folder.
-- The GO turns blue, meaning it’s now a Prefab!
+### Step 5: Project Preferences ⚙️
+- Finally, I adjusted project preferences to ensure Unity Remote could communicate with my iPhone’s accelerometer. 
 
-#### **Creating Collectibles (PickUps):**
-I created **PickUps** (green for points, orange for penalties). Then I added some animation using this simple code for oscillation:
-```csharp
-float t = (Mathf.Sin(Time.time * speed * Mathf.PI * 2.0f) + 1.0f) / 2.0f;
-```
-{{< figure src="/blogVAR/images/unity_plateau.png" alt="Plateau" caption="Plateau" >}}
+To get your Unity game running on your iPhone using Unity Remote 5:
 
-#### **Adding Rotation and Oscillation:**
-I used the **Lerp function** to interpolate between two points, giving the PickUps a rotating and oscillating effect, which made the game feel dynamic.
+1. **Connect the iPhone** to your computer.
+2. In Unity, go to **Edit > Preferences > External Tools**.
+3. Under **Device**, select your iPhone.
 
-#### **Player Controller and Collisions:**
-I modified the `PlayerController.cs` script to detect collisions using Unity's **colliders**. When the player hits a **green** object, they score +1; when they hit **orange**, they lose 1 point.
+This will let Unity Remote 5 use your iPhone’s sensors for testing. Now, as you play the game in Unity, it streams to your phone, and you can use the accelerometer to control the game.
 
-Make sure to set **"Is Trigger"** in the inspector and use **rigidbody components** on PickUps.
+Now, as I tilt my phone, the ball rolls accordingly! 
 
-#### **UI for the Score:**
-To display the score, I added a **UI text element** with TextMeshPro. You can find it under **Hierarchy > UI > Text-TextMeshPro** and drag it into the PlayerController script to keep track of the player’s score.
-
----
-
-### Step 3: Testing the Game
-Once everything was set, I hit the play button and tested the mechanics to make sure the score, rotation, and collisions worked as expected.
-
----
-
-Now you have a basic game in Unity! You can follow along with the full tutorial [here](https://learn.unity.com/project/roll-a-ball), but this is a great foundation to start creating your own projects.
-
-
-
+Check the final result here : 
 {{< youtube lF-Qpa39f1A >}}
 
-
-<video width="640" height="360" controls>
-  <source src="/blogVAR/videos/unity_game_mobile.MOV" type="video/MOV">
-  Your browser does not support the video tag.
-</video>
+And that’s it—game on! 🎉
