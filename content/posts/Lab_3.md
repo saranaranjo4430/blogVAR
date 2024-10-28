@@ -59,3 +59,7 @@ Once everything was set, I hit the play button and tested the mechanics to make 
 
 Now you have a basic game in Unity! You can follow along with the full tutorial [here](https://learn.unity.com/project/roll-a-ball), but this is a great foundation to start creating your own projects.
 
+<video width="640" height="360" controls>
+  <source src="/images/unity_game_mobile.MOV" type="video/MOV">
+  Your browser does not support the video tag.
+</video>
