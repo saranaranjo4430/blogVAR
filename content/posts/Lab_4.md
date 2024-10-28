@@ -80,17 +80,17 @@ Reconstruct
 {{< figure src="/blogVAR/images/facerecognition.png" alt="Face Recognition" caption="Face Recognition" >}}
 {{< figure src="/blogVAR/images/square.png" alt="Square" caption="Face Recognition" >}}
 <video width="640" height="360" controls>
-  <source src="/images/3D_reconstruction.mp4" type="video/mp4">
+  <source src="/blogVAR/static/videos/skeleton.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="640" height="360" controls>
-  <source src="/blogVAR/images/skeleton.mp4" type="video/mp4">
+  <source src="/blogVAR/videos/skeleton.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video width="" height="" controls>
-  <source src="/blogVAR/images/skeleton.mp4" type="video/mp4">
+  <source src="/blogVAR/videos/skeleton.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
