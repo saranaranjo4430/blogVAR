@@ -1,14 +1,13 @@
 +++ 
 date = 2024-09-17T11:00:55+02:00
-title = "Lab 1"
+title = "How to create a website using Hugo"
 description = "Site web"
 authors = ["Sara Naranjo"]
 tags = [
-    "Cognition",
-    "Perception",
-    "Affordance",
-    "Gestalt Laws",
-    "Dark Design Patterns"
+    "Hugo Site",
+    "Web",
+    "Brew",
+    "Git"
     ]
 categories = []
 externalLink = ""
