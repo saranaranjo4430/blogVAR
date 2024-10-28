@@ -37,6 +37,7 @@ I created **PickUps** (green for points, orange for penalties). Then I added som
 ```csharp
 float t = (Mathf.Sin(Time.time * speed * Mathf.PI * 2.0f) + 1.0f) / 2.0f;
 ```
+{{< figure src="/blogVAR/images/unity_plateau.png" alt="Plateau" caption="Plateau" >}}
 
 #### **Adding Rotation and Oscillation:**
 I used the **Lerp function** to interpolate between two points, giving the PickUps a rotating and oscillating effect, which made the game feel dynamic.
