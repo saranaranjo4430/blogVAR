@@ -15,38 +15,6 @@ externalLink = ""
 series = []
 +++
 
-
-## Step 1: Installing the Magic Wand – Homebrew 🧙‍♂️
-Alright, first things first, we need Homebrew. Open your terminal and type in this command to get it up and running:
-```markdown
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-## Step 2: Summon Hugo via Homebrew 🛠️
-Now let’s install Hugo. Just type:
-```markdown
-brew install hugo
-```
-And bam! Hugo’s in.
-
-## Step 3: Start a New Hugo Project 🏗️
-This is where things get fun. Let’s create the actual site:
-```markdown
-hugo new site my-awesome-blog
-cd my-awesome-blog
-```
-
-## Step 4: Finding Your Theme 🎨
-## Step 5: Write a Post! ✍️
-## Step 6: Test the Blog Locally 🚀
-## Step 7: Deploy to the World 🌐 
-
-kuyylkuygb.khñoi
-
-Here’s the full, detailed setup for building and uploading your Hugo blog, with every step explained!
-
----
-
 ### Step 1: Installing Homebrew 🧙‍♀️
 First, open a terminal and install Homebrew, a package manager that makes life easier on macOS:
 
