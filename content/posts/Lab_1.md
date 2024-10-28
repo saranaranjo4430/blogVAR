@@ -23,8 +23,8 @@ Alright, first things first, we need Homebrew. Open your terminal and type in th
 
 ```markdown
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
-´´´
 ## Step 3: Start a New Hugo Project 🏗️
 ## Step 4: Finding Your Theme 🎨
 ## Step 5: Write a Post! ✍️
