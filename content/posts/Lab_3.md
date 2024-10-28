@@ -59,10 +59,7 @@ Once everything was set, I hit the play button and tested the mechanics to make 
 
 Now you have a basic game in Unity! You can follow along with the full tutorial [here](https://learn.unity.com/project/roll-a-ball), but this is a great foundation to start creating your own projects.
 
-{{< [youtube yY96hTb8WgI](https://youtu.be/lF-Qpa39f1A) >}}
 
-
-https://youtu.be/lF-Qpa39f1A
 
 {{< youtube lF-Qpa39f1A >}}
 
