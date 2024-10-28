@@ -61,7 +61,10 @@ Now you have a basic game in Unity! You can follow along with the full tutorial 
 
 {{< [youtube yY96hTb8WgI](https://youtu.be/lF-Qpa39f1A) >}}
 
-<br> 
+
+https://youtu.be/lF-Qpa39f1A
+
+{{< youtube lF-Qpa39f1A >}}
 
 
 <video width="640" height="360" controls>
