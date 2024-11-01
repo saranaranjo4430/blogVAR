@@ -42,7 +42,7 @@ This lecture focuses on 3D User Interfaces (UIs), with particular attention on t
 
 ### 5. Gesture-Based Interfaces:
 - Popularized by films like _Minority Report_, gesture-based interfaces allow users to interact with 3D UIs using hand and body movements. While they provide a natural form of interaction, they also pose challenges like accuracy and user fatigue.
-{{< figure src="/blogVAR/images/minorty_report.png" alt="Minority Report" caption="Minority Report" >}}
+{{< figure src="/blogVAR/images/minority_report.png" alt="Minority Report" caption="Minority Report" >}}
 ### 6. 2D Interaction in 3D UIs:
 - Not every problem requires a 3D UI. Designers should carefully evaluate whether stereoscopic depth perception, immersion, or the surrounding context (AR) enhances the user experience. In some cases, 2D interaction might still be the best solution for certain tasks.
 
