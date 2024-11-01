@@ -1,12 +1,12 @@
 +++ 
 date = 2024-10-15T11:00:55+02:00
-title = "Lecture 10 - The Shape of Smartphones"
+title = "The Shape of Smartphones: A short post "
 description = "The Shape of Smartphones"
 authors = ["Sara Naranjo"]
 tags = [
-    "Prototyping",
-    "Evaluation",
-    "Testing"
+    "Smartphones",
+    "Shape",
+    "Future"
     ]
 categories = []
 externalLink = ""
@@ -27,3 +27,5 @@ Key changes were driven by:
 The next step in smartphone evolution may likely involve **fully foldable or rollable displays** and **wearable technology**. Devices that blend smartphones with smartwatches or even glasses may become mainstream, eliminating the need to carry a traditional handheld device. The move towards **ambient computing**—where the interface becomes more integrated into everyday surroundings—could also influence smartphone form factors, creating devices that are even more immersive, ergonomic, and seamlessly integrated into daily life.
 
 I believe foldable and flexible screens will dominate because they provide both the large screen experience and compactness, addressing the ongoing demand for portability without sacrificing display size.
+
+{{< youtube 5P1F0L-8Igw >}}
