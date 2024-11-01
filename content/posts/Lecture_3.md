@@ -1,6 +1,6 @@
 +++ 
 date = 2024-09-23T11:00:55+02:00
-title = "Lecture 3 - The History of HCI"
+title = "The History of HCI"
 description = "History of HCI"
 authors = ["Sara Naranjo"]
 tags = [
@@ -12,7 +12,7 @@ externalLink = ""
 series = []
 +++
 
-# Summary and key concepts of the lecture 
+# Key Concepts: 
 
 The history of **Human-Computer Interaction (HCI)** reveals how individual researchers, technological advancements, and evolving user needs have shaped the field over time. HCI emerged in the 1970s and 1980s, grounded in engineering, cognitive psychology, and ergonomics, with the primary goal of enhancing usability. Over time, it has become a highly interdisciplinary field, incorporating insights from computer science, psychology, design, and cognitive science.
 
@@ -20,10 +20,12 @@ The history of **Human-Computer Interaction (HCI)** reveals how individual resea
 ### 1. Zuse Z3 (1941):
 
 - The Z3 was the first programmable computer, primarily designed for scientific calculations, marking a pioneering step in computing history.
+{{< figure src="/blogVAR/images/Zuze_z3.jpeg" alt="Zuze Z3" caption="Zuze Z3" >}}
 
 ### 2. Personal Computers:
 
 - **Xerox Alto (1973):** Introduced the first graphical user interface (GUI) with a mouse and Ethernet networking, laying the foundation for modern personal computing.
+{{< figure src="/blogVAR/images/xerox_alto.jpeg" alt="Xerox Alto" caption="Xerox Alto" >}}
 - **Apple iPhone (2007):** A major milestone in mobile computing that revolutionized interaction with handheld devices.
 - **Oculus Quest (2019):** A paradigm shift in consumer virtual reality, making high-quality VR experiences accessible.
 
@@ -31,7 +33,7 @@ The history of **Human-Computer Interaction (HCI)** reveals how individual resea
 ### 1. Vannevar Bush:
 
 - **MEMEX (1945):** Bush envisioned a system that could store and retrieve information using indexing and cross-referencing, which foreshadowed the World Wide Web. His vision focused on augmenting human memory and information retrieval.
-
+{{< figure src="/blogVAR/images/memex.jpeg" alt="Memex" caption="Memex" >}}
 ### 2. J.R. Licklider:
 
 - **Human-Computer Symbiosis (1960s):** Licklider's work laid the groundwork for interactive computing, envisioning a global network of interconnected computers, which influenced the development of the internet.
@@ -39,18 +41,20 @@ The history of **Human-Computer Interaction (HCI)** reveals how individual resea
 ### 3. Ivan Sutherland:
 
 - **Sketchpad (1963):** One of the first graphical user interfaces, Sutherland’s work inspired the development of virtual and augmented reality, earning him the title of the "grandfather" of these fields.
-
+{{< figure src="/blogVAR/images/sketchpad.jpg" alt="Sketchpad" caption="Sketchpad" >}}
 ### 4. Douglas Engelbart:
 
 - **Mother of All Demos (1968):** Demonstrated innovations like the computer mouse, hypertext, and collaborative systems, which shaped modern HCI.
-
+{{< youtube B6rKUf9DWRI >}}
 ### 5. Alan Kay:
 
 - **Dynabook (1970s):** Envisioned the personal computer and portable devices, influencing the design of modern laptops and tablets. Kay also developed Smalltalk, an early object-oriented programming language that impacted GUI development.
+{{< figure src="/blogVAR/images/dynabook.jpg" alt="Dynabook" caption="Dynabook" >}}
 
 ### 6. Don Norman:
 
 - **User-Centered Design:** Norman emphasized the importance of designing systems with a deep understanding of the user. His work focused on making designs intuitive and easy to use, best exemplified in his book, The Design of Everyday Things.
+{{< youtube yY96hTb8WgI >}}
 
 ### 7. Mark Weiser:
 
