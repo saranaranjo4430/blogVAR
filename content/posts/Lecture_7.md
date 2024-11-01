@@ -1,6 +1,6 @@
 +++ 
 date = 2024-10-08T11:00:55+02:00
-title = "Lecture 7 - Post-WIMP, Mobile/Ubiquitous Computing"
+title = "Post-WIMP, Mobile/Ubiquitous Computing"
 description = "Post-WIMP, Mobile/Ubiquitous Computing"
 authors = ["Sara Naranjo"]
 tags = [
@@ -13,11 +13,9 @@ externalLink = ""
 series = []
 +++
 
-# Summary and key concepts of the lecture 
+# Key Concepts: 
 
 This lecture explores **quick prototyping techniques** for interactive gloves and how capacitive touch technology integrates with mobile and ubiquitous computing. These advances create seamless, intuitive interfaces by turning everyday objects into interactive surfaces.
-
-## Key Concepts:
 
 1. **Interactive Gloves for Capacitive Screens:**
    - Using conductive materials, gloves can be adapted to interact with capacitive touchscreens, providing an easy and rapid prototype for user-device interaction.
@@ -41,7 +39,7 @@ This lecture explores **quick prototyping techniques** for interactive gloves an
 This lecture illustrates how capacitive touch technology, combined with ubiquitous computing principles, is transforming our interaction with digital environments. As computing becomes more embedded in the world around us, we will interact with technology as naturally as we do with physical objects, with wearable devices bridging the gap between digital and real worlds.
 
 ___
-# Homework: Ideate
+# Ideate
 #### Three Ideas for Innovative Concepts
 
 1. **Smart Fridge Organizer App**:
