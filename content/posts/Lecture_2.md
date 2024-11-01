@@ -1,7 +1,7 @@
 +++ 
 date = 2024-09-17T11:00:55+02:00
-title = "Lecture 2 - Metaphors and Mental Models"
-description = "Metaphors and Mental Models"
+title = "Metaphors, Mental Models and Gestalt Laws"
+description = "Metaphors, Mental Models and Gestalt Laws"
 authors = ["Sara Naranjo"]
 tags = [
     "Mental Models",
@@ -13,10 +13,9 @@ externalLink = ""
 series = []
 +++
 
-# Summary and key concepts of the lecture 
+# Key Concepts:  
 Mental Models are essential tools that guide how people think, understand, and interact with the world. These cognitive frameworks allow individuals to predict outcomes, reason through unfamiliar situations, and make informed decisions. In the context of Human-Computer Interaction (HCI), mental models are critical for creating user-friendly and intuitive systems.
 
-# Key Concepts:
 ## 1. Mental Models:
 
 - Mental models are internal representations that help individuals understand how things work. These models enable people to simulate scenarios, predict outcomes, and guide their behavior.
@@ -56,7 +55,7 @@ In class, we discussed two positions regarding HCI’s role in addressing ethica
 The consensus in class was that **designers should evaluate their designs and remain in contact with experts to gather feedback**. Additionally, before a design is launched, it should be **validated by experts** to ensure it meets ethical and social standards. This approach balances technical innovation with responsible design, ensuring that systems are both functional and socially conscious.
 
 ___
-# Homework: Gestalt Laws
+# Gestalt Laws
 ### Bad Application 1:
 {{< notice example >}}
 A poorly designed bookshelf where books of different genres are placed together without clear visual separation.

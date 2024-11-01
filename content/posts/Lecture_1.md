@@ -1,6 +1,6 @@
 +++
 date = 2024-09-16T11:00:55+02:00
-title = "Lecture 1 - Cognition and Perception"
+title = "A Short Introduction: Cognition and Perception"
 description = "Congnition and Perception"
 authors = ["Sara Naranjo"]
 tags = [
@@ -13,7 +13,7 @@ externalLink = ""
 series = []
 +++
 
-# Summary and key concepts of the lecture 
+# Key Concepts:
 Human-Computer Interaction (HCI) focuses on designing intuitive, efficient, and user-friendly interfaces between humans and computer systems. Here are the key forms and concepts discussed in the lecture:
 
 1. **Input Devices:**
@@ -53,7 +53,7 @@ Dark design patterns manipulate users into taking actions they wouldn’t normal
 In conclusion, as technology advances, it becomes increasingly important to design interfaces that respect users' cognitive limitations, prioritize accessibility, and avoid manipulative practices. Understanding cognition, perception, and behavior is key to creating intuitive and user-friendly systems. 
 
 ___
-# Homework: Affordances 
+# Affordances 
 ### Good Affordance:
 {{< notice example >}}
 A laptop trackpad that allows multitouch gestures (like pinch-to-zoom or two-finger scrolling).
