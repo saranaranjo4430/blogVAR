@@ -14,7 +14,7 @@ series = []
 +++
 
 ___
-# Homework: The Shape of Smartphones
+# The Shape of Smartphones
 Smartphones have undergone significant shape transformations since their introduction. Early models were bulky with physical keyboards (e.g., BlackBerry), gradually evolving into sleeker, touchscreen-based devices that maximize screen size while minimizing bezels, influenced by user demand for larger displays and more immersive media consumption.
 
 Key changes were driven by:
