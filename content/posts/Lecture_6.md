@@ -1,6 +1,6 @@
 +++ 
 date = 2024-10-03T11:00:55+02:00
-title = "Lecture 6 - Prototyping and Evaluation"
+title = "Prototyping and Evaluation"
 description = "Prototyping and Evaluation"
 authors = ["Sara Naranjo"]
 tags = [
@@ -12,7 +12,7 @@ categories = []
 externalLink = ""
 series = []
 +++
-# Summary and key concepts of the lecture 
+# Key concepts:
 **Prototyping** plays a key role in refining and testing design concepts before full-scale implementation. It involves creating simplified versions of a system, which range from low-fidelity prototypes like paper sketches and storyboards to high-fidelity prototypes that closely simulate the final product, such as interactive wireframes or functional hardware prototypes.
 
 ### Prototyping helps to:
@@ -25,25 +25,22 @@ A combination of **A/B testing**, **heuristic evaluations**, and **user feedback
 
 **First prototypes** should be made quickly (ideally within one day) to facilitate rapid iteration.
 
-### Dependent and Independent Variables (in an experiment):
-- **Dependent variable**: The variable you measure (e.g., the bounce height of a ball).
-- **Independent variable**: The variable you control or set (e.g., the height from which the ball is dropped).
-- **Control variable:** The constant in the experiment that does not change (e.g., the type of ball, its material, and size).
-
-Example experiment:** Dropping a ball from various heights and measuring the bounce height.
-
+### Dependent and Independent Variables:
+- **Dependent variable**: The variable you measure.
+- **Independent variable**: The variable you control or set.
+- **Control variable:** The constant in the experiment that does not change.
 
 {{< notice example >}}
-### Example experiment: 
 Dropping a ball from various heights and measuring the bounce height.
 - **Dependent variable:** the bounce of the ball
 - **Independent variable:** the height at which I drop the ball
 - **Control variable:** the ball itself (it's dimensions, it's materials)
 {{< /notice >}}
 ___
-# Homework: Input Devices and Interaction Paradigms
+# Input Devices and Interaction Paradigms
 
 #### Input Device: **Google Glass**
+{{< figure src="/blogVAR/images/google_glass.jpg" alt="Google Glass" caption="Google Glass" >}}
 **User Interface Type**: Wearable User Interface (WUI) and Augmented Reality (AR)
 
 **Overview**: Google Glass was an AR wearable launched in 2013, featuring a head-mounted display that provided hands-free access to information and services. Users interacted via voice commands, touch gestures on the frame, and head movements. The device projected information onto a small screen in the user’s field of vision.
