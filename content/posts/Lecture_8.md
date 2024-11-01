@@ -1,6 +1,6 @@
 +++ 
 date = 2024-10-12T11:00:55+02:00
-title = "Lecture 8 - AR/VR/MR + HCI Research"
+title = "AR/VR/MR + HCI Research"
 description = "AR/VR/MR + HCI Research"
 authors = ["Sara Naranjo"]
 tags = [
@@ -14,19 +14,19 @@ categories = []
 externalLink = ""
 series = []
 +++
-# Summary and key concepts of the lecture 
+# Key Concepts: 
 
 The **CAVE® (Cave Automatic Virtual Environment)**, developed in 1993, was one of the earliest forms of immersive virtual reality (VR). It used projection screens on multiple walls of a room to immerse users in a 3D environment, a precursor to modern VR technologies. 
-
-## Key Concepts:
 
 1. **CAVE Virtual Reality System**:
    - Users interacted with VR content projected onto the walls of a room-sized cube. 
    - The system allowed immersive experiences, but with limited mobility, as users remained within the projection space.
+   {{< figure src="/blogVAR/images/cave.jpg" alt="CAVE" caption="CAVE" >}}
    
 2. **Evolution of VR Technology**:
    - Since the 90s, VR has evolved rapidly. Today, consumer-grade VR systems, such as those available in homes, provide higher quality experiences than the most advanced labs did in the past. 
    - Devices such as **Head-Mounted Displays (HMDs)** have become the standard for VR research, offering portability and a more immersive experience compared to the stationary nature of CAVE systems.
+   {{< figure src="/blogVAR/images/head_mounted.png" alt="Head Mounted Displays" caption="Head Mounted Displays" >}}
 
 3. **Head-Mounted Displays (HMDs)**:
    - **Display Screens**: High-resolution screens for each eye, often with OLED or LCD technology, offer users immersive visual experiences.
@@ -46,7 +46,7 @@ The **CAVE® (Cave Automatic Virtual Environment)**, developed in 1993, was one 
 The journey from the CAVE system to modern HMDs reflects the dramatic evolution in VR technology. Today, consumer-level VR systems outperform older, expensive lab equipment, democratizing access to immersive virtual environments. This shift also ties into the broader trend of ubiquitous computing, where technology becomes an invisible, integrated part of our everyday interactions.
 
 ___
-# Homework: Prototype
+# Prototype
 ### Smart Fridge Organizer App Concept
 
 The **Smart Fridge Organizer** is a mobile app designed to simplify food inventory management, allowing users to keep track of their fridge and counter items, and helping them avoid waste and optimize meal planning.
@@ -77,7 +77,7 @@ The **Smart Fridge Organizer** is a mobile app designed to simplify food invento
 This combination of automation, tracking, and health-focused features makes the **Smart Fridge Organizer** a powerful tool for both simplifying kitchen management and promoting healthier, waste-free living.
 
 Here's an example of what the actual app might look like : 
-
+{{< figure src="/blogVAR/images/proto_app.jpeg" alt="Prototype" caption="Prototype" >}}
 
 ### Features:
 - **Home Screen**: Displays organized food inventory by expiration.
