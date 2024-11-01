@@ -1,20 +1,20 @@
 +++ 
-date = 2024-10-15T11:00:55+02:00
-title = "Lecture 11 - The Computer for the 21st Century"
-description = "The Computer for the 21st Century"
+date = 2024-10-17T11:00:55+02:00
+title = "The Computer for the 21st Century"
+description = "The Computer for the 21st Century by Mark Weiser"
 authors = ["Sara Naranjo"]
 tags = [
-    "Prototyping",
-    "Evaluation",
-    "Testing"
+    "Computer",
+    "21st Century"
     ]
 categories = []
 externalLink = ""
 series = []
 +++
 ___
-# Homework: The Computer for the 21st Century
+# The Computer for the 21st Century
 Here's the link to the article by Mark Weiser: [The Computer for the 21st Century](https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf)
+{{< figure src="/blogVAR/images/Mark_Weiser.jpg" alt="Mark Weiser" caption="Mark Weiser" >}}
 #### Are we already living in a world of ubiquitous computing?
 
 Mark Weiser's vision of ubiquitous computing, where technology seamlessly integrates into our everyday lives, is partially realized today. Devices like smartphones, smartwatches, IoT devices, and AI assistants are embedded into our daily activities, often working invisibly in the background. 

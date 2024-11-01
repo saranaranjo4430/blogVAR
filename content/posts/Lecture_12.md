@@ -1,19 +1,19 @@
 +++ 
-date = 2024-10-15T11:00:55+02:00
-title = "Lecture 12 - Most Downloaded Applications in a Future MR App Store"
+date = 2024-10-18T11:00:55+02:00
+title = "Most Downloaded Applications in a Future MR App Store"
 description = "Most Downloaded Applications in a Future MR App Store"
 authors = ["Sara Naranjo"]
 tags = [
-    "Prototyping",
-    "Evaluation",
-    "Testing"
+    "Apps",
+    "Future",
+    "Dowloaded Apps"
     ]
 categories = []
 externalLink = ""
 series = []
 +++
 ___
-# Homework: Most Downloaded Applications in a Future MR App Store
+# Most Downloaded Applications in a Future MR App Store
 In a world where Mixed Reality (MR) Head-Mounted Displays (HMDs) are as common as smartphones, the future MR app store will feature transformative apps that enhance everyday life. Here are some possible most-downloaded applications:
 
 1. **MR Navigation**: An immersive navigation app that overlays directions, landmarks, and real-time traffic information directly onto the physical world. This would be essential for commuters and tourists, combining practical and interactive elements to make navigation seamless and intuitive.

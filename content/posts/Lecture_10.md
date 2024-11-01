@@ -1,5 +1,5 @@
 +++ 
-date = 2024-10-15T11:00:55+02:00
+date = 2024-10-16T11:00:55+02:00
 title = "The Shape of Smartphones: A short post "
 description = "The Shape of Smartphones"
 authors = ["Sara Naranjo"]

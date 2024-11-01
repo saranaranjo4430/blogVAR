@@ -1,6 +1,6 @@
 +++ 
 date = 2024-09-24T11:00:55+02:00
-title = "3D User Interface Input Hardware - Pattie Maes"
+title = "3D User Interface Input Hardware and Pattie Maes"
 description = "3D User Interface Input Hardware"
 authors = ["Sara Naranjo"]
 tags = [
