@@ -1,20 +1,20 @@
 +++ 
 date = 2024-10-01T11:00:55+02:00
-title = "Lecture 5 - Design Process"
+title = "Design Process and Ivan Sutherland"
 description = "Design Process"
 authors = ["Sara Naranjo"]
 tags = [
     "Design",
-    "Processes"
+    "Processes", 
+    "Ivan Sutherland"
     ]
 categories = []
 externalLink = ""
 series = []
 +++
-# Summary and key concepts of the lecture 
+# Key Concepts: 
 This lecture focuses on the **design process** in Human-Centered Design (HCD), emphasizing the importance of user involvement, prototyping, and evaluation to create systems that are both usable and useful. The design process follows a structured, iterative approach, incorporating user feedback and addressing their needs at every stage.
 
-## Key Concepts:
 ### 1. Human-Centered Design (HCD):
 - HCD is an approach that prioritizes the needs, behaviors, and requirements of people involved in the system, not just end-users but all stakeholders, including designers, developers, and even those who maintain the system.
 - It involves applying human factors, ergonomics, and usability principles to ensure systems are usable and user-friendly.
@@ -71,7 +71,8 @@ The video titled "It's not you. Bad doors are everywhere" discusses the concept 
 This process ensures that the platform is both user-centered and built on top of an existing foundation, reducing development time and improving user satisfaction.
 {{< /notice >}}
 ___
-# Homework: Read the Ultimate Display by Ivan Sutherland
+# The Ultimate Display by Ivan Sutherland
+{{< figure src="/blogVAR/images/ivan_sutherland.jpg" alt="Ivan Sutherland" caption="Ivan Sutherland" >}}
 Here's the link to the article: [The Ultimate Display](https://worrydream.com/refs/Sutherland_1965_-_The_Ultimate_Display.pdf)
 #### Summary 
 In his 1965 paper, _The Ultimate Display_, Ivan Sutherland envisioned a virtual world indistinguishable from reality. He predicted immersive virtual environments where computers would simulate experiences that engage all senses, even manipulating physical matter. His vision laid the foundation for modern VR and AR technologies, imagining a future where humans interact naturally with virtual worlds. Sutherland's ideas were groundbreaking, foreshadowing advancements in computer graphics, human-computer interaction, and immersive simulations that shape technology today.
